@@ -1,0 +1,3724 @@
+00:10	WN4491	
+New York (LGA)
+Southwest Airlines	B738 (N8613K)	
+Landed 02:50
+00:25	UA495	
+Washington (IAD)
+United Airlines	B39M (N77587)	
+Landed 00:01
+00:40	F93517	
+Tampa (TPA)
+Frontier (Miracle the Seagull Livery)	A20N (N350FR)	
+Landed 00:04
+01:41	8C3304	
+Wilmington (ILN)
+Air Transport International	B763 (N351CM)	
+Landed 01:31
+03:05	5X814	
+Louisville (SDF)
+UPS	A306 (N157UP)	
+Unknown
+03:34	5X810	
+Chicago (RFD)
+UPS	A306 (N131UP)	
+Landed 03:43
+03:52	5X802	
+Louisville (SDF)
+UPS	B763 (N369UP)	
+Landed 04:10
+03:56	F92350	
+Las Vegas (LAS)
+Frontier (Sombra the Jaguar Livery)	A21N (N613FR)	
+Landed 04:14
+04:12	FX1162	
+Fort Worth (AFW)
+FedEx	A306 (N682FE)	
+Landed 03:55
+04:16	F91500	
+Ontario (ONT)
+Frontier (Hudson the Bog Turtle Livery)	A20N (N379FR)	
+Landed 04:08
+04:35	5X806	
+Ontario (ONT)
+UPS	B763 (N325UP)	
+Landed 04:31
+04:39	FX1420	
+Memphis (MEM)
+FedEx	B763 (N189FE)	
+Landed 05:04
+04:50	FX1728	
+Indianapolis (IND)
+FedEx	B763 (N154FE)	
+Landed 04:49
+05:35	UA1731	
+Kailua-Kona (KOA)
+United Airlines	B772 (N773UA)	
+Landed 05:13
+06:25	UA2308	
+Lihue (LIH)
+United Airlines	B752 (N17122)	
+Landed 05:42
+06:30	WN836	
+Austin (AUS)
+Southwest Airlines	B38M (N8893L)	
+Landed 06:30
+06:35	UA1735	
+Kahului (OGG)
+United Airlines	B772 (N779UA)	
+Landed 06:04
+06:38	UA383	
+Honolulu (HNL)
+United Airlines	B772 (N775UA)	
+Landed 06:23
+06:41	UA5355	
+Wichita (ICT)
+United Express	E75L (N103SY)	
+Landed 06:26
+06:42	UA5093	
+Rock Springs (RKS)
+United Express	CRJ2 (N910EV)	
+Landed 06:06
+06:42	UA5513	
+Casper (CPR)
+United Express	CRJ2 (N221PS)	
+Landed 05:58
+06:43	UA2041	
+Minneapolis (MSP)
+United Airlines	B38M (N17310)	
+Landed 06:22
+06:43	UA1442	
+Omaha (OMA)
+United Airlines	B739 (N69888)	
+Landed 06:15
+06:43	UA4777	
+Durango (DRO)
+United Express	CRJ2 (N965SW)	
+Landed 05:55
+06:49	UA4689	
+Billings (BIL)
+SkyWest Airlines	CRJ2 (N928EV)	
+Landed 06:17
+06:49	UA5029	
+Kearney (EAR)
+United Express	CRJ2 (N679SA)	
+Landed 06:26
+06:50	WN149	
+Memphis (MEM)
+Southwest Airlines	B737 (N7874B)	
+Landed 06:35
+06:52	UA4800	
+Grand Junction (GJT)
+United Express	CRJ2 (N487CA)	
+Landed 06:17
+06:52	UA5576	
+Rapid City (RAP)
+SkyWest Airlines	CRJ2 (N709BR)	
+Landed 07:08
+06:53	UA5036	
+Cheyenne (CYS)
+United Express	CRJ2 (N207PS)	
+Landed 06:28
+06:53	UA5130	
+Riverton (RIW)
+United Express	CRJ2 (N906EV)	
+Landed 06:14
+06:54	UA5701	
+Sioux Falls (FSD)
+United Express	CRJ7 (N796SK)	
+Landed 06:29
+06:55	UA773	
+Dallas (DFW)
+United Airlines	B738 (N87531)	
+Landed 06:41
+06:55	UA2706	
+Kansas City (MCI)
+United Airlines	B738 (N77530)	
+Landed 06:39
+06:55	UA4790	
+Des Moines (DSM)
+United Express	CRJ7 (N784SK)	
+Landed 06:45
+06:55	WN2386	
+Louisville (SDF)
+Southwest Airlines	B38M (N8844Q)	
+Landed 06:48
+06:55	UA4751	
+Oklahoma City (OKC)
+United Express	E75L (N108SY)	
+Landed 06:43
+06:55	UA5078	
+Gillette (GCC)
+United Express	CRJ2 (N971SW)	
+Landed 06:46
+06:55	UA5794	
+Midland (MAF)
+United Express	E75L (N85369)	
+Landed 06:39
+06:56	UA5054	
+Sheridan (SHR)
+United Express	CRJ2 (N953SW)	
+Landed 06:20
+06:56	UA5683	
+Salt Lake City (SLC)
+United Express	E75L (N625UX)	
+Landed 06:12
+06:58	UA5126	
+St. George (SGU)
+Delta Connection	CRJ2 (N496CA)	
+Landed 06:43
+06:58	UA5291	
+Colorado Springs (COS)
+United Express	CRJ2 (N912EV)	
+Landed 06:33
+06:59	UA2436	
+Houston (IAH)
+United Airlines	A21N (N14530)	
+Landed 06:37
+07:00	UA5667	
+Tulsa (TUL)
+United Express	E75L (N86372)	
+Landed 06:48
+07:01	UA5137	
+Hays (HYS)
+United Express	CRJ2 (N466SW)	
+Landed 06:34
+07:05	UA1959	
+Anchorage (ANC)
+United Airlines	B38M (N37324)	
+Landed 06:37
+07:05	WN3833	
+Cleveland (CLE)
+Southwest Airlines	B737 (N459WN)	
+Landed 07:00
+07:05	UA4738	
+Bismarck (BIS)
+United Express	CRJ2 (N937EV)	
+Landed 06:28
+07:05	UA4775	
+Boise (BOI)
+United Express	E75L (N209SY)	
+Landed 06:25
+07:05	UA5109	
+Salina (SLN)
+United Express	CRJ2 (N983SW)	
+Landed 06:46
+07:05	UA5866	
+Lincoln (LNK)
+United Express	CRJ2 (N967SW)	
+Landed 06:31
+07:05	WN2538	
+Dallas (DAL)
+Southwest Airlines	B38M (N8747Q)	
+Landed 06:59
+07:10	WN4307	
+Salt Lake City (SLC)
+Southwest Airlines	B737 (N917WN)	
+Landed 06:47
+07:15	WN1961	
+St. Louis (STL)
+Southwest Airlines	B737 (N7846A)	
+Landed 06:53
+07:15	WN3992	
+Albuquerque (ABQ)
+Southwest Airlines	B737 (N7888A)	
+Landed 06:57
+07:15	WN4199	
+Milwaukee (MKE)
+Southwest Airlines	B38M (N8753Q)	
+Landed 06:54
+07:16	F91149	
+Minneapolis (MSP)
+Frontier (Forest the Northern Spotted Owl Livery)	A20N (N386FR)	
+Landed 06:41
+07:20	WN509	
+Kansas City (MCI)
+Southwest Airlines	B38M (N1808U)	
+Landed 07:02
+07:20	WN1358	
+Pittsburgh (PIT)
+Southwest Airlines	B738 (N8309C)	
+Landed 07:11
+07:20	WN2162	
+San Antonio (SAT)
+Southwest Airlines	B737 (N952WN)	
+Landed 07:18
+07:20	WN3012	
+Colorado Springs (COS)
+Southwest Airlines	B737 (N413WN)	
+Landed 07:05
+07:25	WN1376	
+Chicago (MDW)
+Southwest Airlines	B38M (N1807U)	
+Landed 07:06
+07:25	WN2587	
+Tulsa (TUL)
+Southwest Airlines	B38M (N8862Q)	
+Landed 07:17
+07:25	WN2605	
+Omaha (OMA)
+Southwest Airlines	B38M (N8808Q)	
+Landed 07:14
+07:30	WN1196	
+Wichita (ICT)
+Southwest Airlines	B737 (N209WN)	
+Landed 07:14
+07:30	WN1445	
+Raleigh-Durham (RDU)
+Southwest Airlines	B38M (N8765Q)	
+Landed 07:21
+07:30	WN1555	
+Columbus (CMH)
+Southwest Airlines	B737 (N7886A)	
+Landed 07:29
+07:30	WN1911	
+Nashville (BNA)
+Southwest Airlines	B737 (N228WN)	
+Landed 07:21
+07:30	WN2325	
+Atlanta (ATL)
+Southwest Airlines	B38M (N8764Q)	
+Landed 07:25
+07:30	WN2906	
+Detroit (DTW)
+Southwest Airlines	B737 (N420WN)	
+Landed 07:23
+07:34	F92147	
+Dallas (DFW)
+Frontier (Sage the Pygmy Rabbit Livery)	A20N (N395FR)	
+Landed 07:10
+07:35	F91815	
+Austin (AUS)
+Frontier (Parish&Daisy the Burrowing Owls Livery)	A20N (N371FR)	
+Landed 07:16
+07:35	WN573	
+Oklahoma City (OKC)
+Southwest Airlines	B38M (N8814K)	
+Landed 07:31
+07:35	WN1120	
+Boston (BOS)
+Southwest Airlines	B738 (N8676A)	
+Landed 07:13
+07:35	WN1457	
+Des Moines (DSM)
+Southwest Airlines	B738 (N8320J)	
+Landed 07:22
+07:35	WN1577	
+Houston (HOU)
+Southwest Airlines	B38M (N8716B)	
+Landed 07:27
+07:35	WN1721	
+Indianapolis (IND)
+Southwest Airlines	B738 (N8513F)	
+Landed 07:26
+07:35	WN2201	
+Philadelphia (PHL)
+Southwest Airlines	B38M (N8811L)	
+Landed 07:19
+07:35	WN2402	
+Minneapolis (MSP)
+Southwest Airlines	B738 (N8651A)	
+Landed 07:16
+07:35	WN2967	
+New Orleans (MSY)
+Southwest Airlines	B738 (N8678E)	
+Landed 07:25
+07:35	WN3456	
+El Paso (ELP)
+Southwest Airlines	B738 (N8662F)	
+Landed 07:25
+07:35	2I594	
+Cincinnati (CVG)
+DHL	B762 (N652GT)	
+Landed 07:28
+07:39	F93229	
+Houston (IAH)
+Frontier (Joaquin the Kit Fox Livery)	A20N (N387FR)	
+Landed 07:22
+07:39	F93862	
+Salt Lake City (SLC)
+Frontier (Wylie the Coati Livery)	A20N (N361FR)	
+Landed 07:03
+08:15	AA1523	
+Dallas (DFW)
+American Airlines	B738 (N936NN)	
+Landed 07:56
+08:18	UA5818	
+Casper (CPR)
+United Express	E75L (N160SY)	
+Landed 08:18
+08:19	UA1877	
+Grand Junction (GJT)
+United Airlines	B738 (N87513)	
+Landed 07:53
+08:19	UA1460	
+Ontario (ONT)
+United Airlines	B739 (N38479)	
+Landed 07:55
+08:19	UA5367	
+Williston (XWA)
+United Express	CRJ7 (N787SK)	
+Landed 07:38
+08:20	UA687	
+Durango (DRO)
+United Airlines	A319 (N841UA)	
+Landed 08:02
+08:20	UA5919	
+Aspen (ASE)
+United Express	E75L (N627SY)	
+Landed 07:58
+08:20	WN1217	
+Orlando (MCO)
+Southwest Airlines	B737 (N265WN)	
+Landed 08:07
+08:21	UA1339	
+Los Angeles (LAX)
+United Airlines	B752 (N48127)	
+Landed 08:20
+08:22	UA480	
+New York (EWR)
+United Airlines	B39M (N37567)	
+Landed 08:05
+08:23	UA5860	
+Minot (MOT)
+United Express	E75L (N157SY)	
+Landed 07:53
+08:24	UA621	
+Albuquerque (ABQ)
+United Airlines	B739 (N62883)	
+Landed 08:23
+08:25	WN2708	
+Las Vegas (LAS)
+Southwest Airlines	B38M (N8873S)	
+Landed 07:59
+08:25	UA2865	
+Kalispell (FCA)
+United Airlines	B739 (N62895)	
+Landed 07:42
+08:26	UA1026	
+Palm Springs (PSP)
+United Airlines	B739 (N61898)	
+Landed 08:22
+08:27	UA1003	
+Santa Barbara (SBA)
+United Airlines	B738 (N76523)	
+Landed 08:15
+08:27	UA2637	
+Colorado Springs (COS)
+United Airlines	A319 (N852UA)	
+Landed 07:56
+08:27	UA1475	
+Fresno (FAT)
+United Airlines	A320 (N491UA)	
+Landed 08:18
+08:27	UA2008	
+Montrose (MTJ)
+United Airlines	A319 (N896UA)	
+Landed 08:04
+08:28	UA1782	
+Boise (BOI)
+United Airlines	B739 (N66803)	
+Landed 07:49
+08:30	KG4235	
+Alliance (AIA)
+Private owner	SW4 (N889DC)	
+Landed 10:16
+08:30	UA2045	
+Missoula (MSO)
+United Airlines	B739 (N78438)	
+Landed 08:03
+08:30	9X880	
+Chadron (CDR)
+Surf Air	PC12 (N821SA)	
+Landed 08:41
+08:32	UA1188	
+Redmond (RDM)
+United Airlines	B39M (N17550)	
+Landed 07:50
+08:32	UA2676	
+San Luis Obispo (SBP)
+United Airlines	A320 (N440UA)	
+Landed 08:20
+08:32	UA5356	
+Santa Fe (SAF)
+United Express	E75L (N624UX)	
+Landed 08:01
+08:33	UA1806	
+Honolulu (HNL)
+United Airlines	B772 (N215UA)	
+Landed 07:47
+08:33	UA1234	
+Spokane (GEG)
+United Airlines	B739 (N66808)	
+Landed 07:51
+08:33	UA2719	
+Medford (MFR)
+United Airlines	B738 (N77518)	
+Landed 07:57
+08:34	UA5559	
+Hayden (HDN)
+United Express	E75L (N85376)	
+Landed 07:33
+08:35	F92209	
+Chicago (MDW)
+Frontier (Percy the Florida Panther Livery)	A20N (N385FR)	
+Landed 08:10
+08:36	UA699	
+Reno (RNO)
+United Airlines	B738 (N76519)	
+Landed 08:09
+08:36	UA5884	
+Rapid City (RAP)
+United Express	CRJ7 (N797SK)	
+Landed 08:01
+08:37	F93173	
+Chicago (ORD)
+Frontier (Chopper the Great White Shark Livery)	A21N (N607FR)	
+Landed 07:59
+08:37	UA459	
+Portland (PDX)
+United Airlines	A320 (N437UA)	
+Landed 07:59
+08:37	UA5221	
+Amarillo (AMA)
+United Express	CRJ2 (N913EV)	
+Landed 08:14
+08:38	UA673	
+Eugene (EUG)
+United Airlines	B739 (N36447)	
+Landed 08:02
+08:38	UA1767	
+Sacramento (SMF)
+United Airlines	B739 (N66831)	
+Landed 08:07
+08:38	UA2420	
+San Francisco (SFO)
+United Airlines	A21N (N14521)	
+Landed 08:06
+08:39	UA1862	
+Salt Lake City (SLC)
+United Airlines	B739 (N69885)	
+Landed 08:10
+08:40	WN1481	
+Chicago (ORD)
+Southwest Airlines	B38M (N8858K)	
+Landed 08:21
+08:40	WN2940	
+Seattle (SEA)
+Southwest Airlines	B738 (N8514F)	
+Landed 08:04
+08:40	UA2241	
+Pasco (PSC)
+United Airlines	A319 (N804UA)	
+Landed 08:08
+08:42	UA372	
+Billings (BIL)
+United Airlines	B738 (N77520)	
+Landed 08:28
+08:44	UA5791	
+Lubbock (LBB)
+SkyWest Airlines	CRJ2 (N905EV)	
+Landed 08:42
+08:45	WN3195	
+Tampa (TPA)
+Southwest Airlines	B737 (N475WN)	
+Landed 08:25
+08:46	UA4706	
+Idaho Falls (IDA)
+United Express	CRJ7 (N780SK)	
+Landed 08:22
+08:47	KG515	
+Gunnison (GUC)
+Key Lime Air	SW4 (N2728G)	
+Landed 09:04
+08:48	UA2063	
+Bozeman (BZN)
+United Airlines	B738 (N78285)	
+Landed 08:25
+08:48	UA5279	
+Helena (HLN)
+United Express	CRJ2 (N925EV)	
+Landed 08:19
+08:49	UA5839	
+Bakersfield (BFL)
+United Express	E75L (N609UX)	
+Landed 08:32
+08:50	KG4710	
+Pierre (PIR)
+Denver Air Connection	E145 (N970DC)	
+Landed 10:59
+08:50	UA5500	
+Oklahoma City (OKC)
+United Express	E75L (N127SY)	
+Landed 08:35
+08:50	WN506	
+Dallas (DAL)
+Southwest Airlines	B738 (N8584Z)	
+Landed 08:36
+08:50	UA1378	
+Jackson (JAC)
+United Airlines	A320 (N451UA)	
+Landed 08:13
+08:50	UA2461	
+Phoenix (PHX)
+United Airlines	B38M (N17328)	
+Landed 08:40
+08:50	UA4750	
+Great Falls (GTF)
+United Express	E75L (N87367)	
+Landed 08:00
+08:51	UA550	
+Calgary (YYC)
+United Airlines	B738 (N77525)	
+Landed 08:15
+08:53	F91376	
+Phoenix (PHX)
+Frontier (Cactus the Coyote Livery)	A321 (N715FR)	
+Landed 08:42
+08:54	UA724	
+El Paso (ELP)
+United Airlines	B738 (N76514)	
+Landed 08:34
+08:55	WN245	
+Bozeman (BZN)
+Southwest Airlines	B738 (N8627B)	
+Landed 08:16
+08:55	WN512	
+Portland (PDX)
+Southwest Airlines	B738 (N8535S)	
+Landed 08:27
+08:55	WN1866	
+Reno (RNO)
+Southwest Airlines	B38M (N8923Q)	
+Landed 08:31
+08:55	WN3065	
+Ontario (ONT)
+Southwest Airlines	B738 (N8534Z)	
+Landed 08:44
+08:55	UA700	
+Tucson (TUS)
+United Airlines	B738 (N18220)	
+Landed 08:30
+08:55	UA5766	
+Aspen (ASE)
+United Express	E75L (N628SY)	
+Landed 08:26
+08:56	UA5587	
+Monterey (MRY)
+United Express	E75L (N143SY)	
+Landed 08:35
+08:57	UA2269	
+Seattle (SEA)
+United Airlines	A320 (N486UA)	
+Landed 08:23
+08:58	F91113	
+Tampa (TPA)
+Frontier (Scout the Pine Marten Livery)	A20N (N328FR)	
+Landed 08:31
+08:59	UA1522	
+Edmonton (YEG)
+United Airlines	B738 (N14235)	
+Landed 08:12
+09:00	UA1444	
+Las Vegas (LAS)
+United Airlines	B738 (N24202)	
+Landed 08:37
+09:00	UA2433	
+Houston (IAH)
+United Airlines	B753 (N74856)	
+Landed 08:46
+09:00	UA4711	
+Colorado Springs (COS)
+SkyWest Airlines	CRJ2 (N908EV)	
+Landed 08:43
+09:00	UA2648	
+Grand Rapids (GRR)
+United Airlines	B739 (N69839)	
+Landed 08:44
+09:00	UA5416	
+Hobbs (HOB)
+United Express	CRJ2 (N939SW)	
+Landed 08:39
+09:00	UA5602	
+Gunnison (GUC)
+United Express	E75L (N612UX)	
+Landed 08:38
+09:00	UA5870	
+Eagle (EGE)
+United Express	E75L (N85377)	
+Landed 08:29
+09:01	F92430	
+Las Vegas (LAS)
+Frontier (Martillo the Bonnethead Shark Livery)	A21N (N662FR)	
+Landed 08:17
+09:01	F93265	
+Philadelphia (PHL)
+Frontier (Kit the Kermode Bear Livery)	A20N (N366FR)	
+Landed 08:28
+09:04	F93137	
+Miami (MIA)
+Frontier (Sunny the Collared Lizard Livery)	A20N (N310FR)	
+Landed 09:01
+09:04	UA791	
+Chicago (ORD)
+United Airlines	B752 (N17133)	
+Landed 08:36
+09:05	WN2237	
+Spokane (GEG)
+Southwest Airlines	B738 (N8555Z)	
+Landed 08:33
+09:07	UA2354	
+Louisville (SDF)
+United Airlines	A320 (N484UA)	
+Landed 08:48
+09:09	F9685	
+Washington (DCA)
+Frontier (Ichabod the Whooping Crane Livery)	A20N (N358FR)	
+Landed 08:33
+09:10	WN1368	
+Las Vegas (LAS)
+Southwest Airlines	B38M (N8827Q)	
+Landed 08:51
+09:14	AA1328	
+Charlotte (CLT)
+American Airlines	A321 (N523UW)	
+Landed 09:02
+09:15	WN2585	
+Phoenix (PHX)
+Southwest Airlines	B737 (N7725A)	
+Landed 08:57
+09:20	WN1152	
+Salt Lake City (SLC)
+Southwest Airlines	B38M (N8937Q)	
+Landed 08:53
+09:20	WN3753	
+St. Louis (STL)
+Southwest Airlines	B38M (N8914Q)	
+Landed 09:09
+09:25	WN1275	
+Austin (AUS)
+Southwest Airlines	B38M (N8942L)	
+Landed 09:07
+09:27	DL346	
+Atlanta (ATL)
+Delta Air Lines	A321 (N346DN)	
+Landed 09:14
+09:30	WN3769	
+Oakland (OAK)
+Southwest Airlines	B737 (N7823A)	
+Landed 08:59
+09:30	UA5191	
+Salt Lake City (SLC)
+SkyWest Charter	CRJ2 (N909EV)	
+Landed 10:08
+09:34	DL1113	
+Detroit (DTW)
+Delta Air Lines	A320 (N352NW)	
+Landed 09:59
+09:35	WN208	
+San Francisco (SFO)
+Southwest Airlines	B38M (N1804U)	
+Landed 09:09
+09:35	WN2305	
+Houston (HOU)
+Southwest Airlines	B38M (N8859Q)	
+Landed 09:33
+09:35	WN2341	
+Chicago (MDW)
+Southwest Airlines	B38M (N8833L)	
+Landed 09:14
+09:35	WN3491	
+Sacramento (SMF)
+Southwest Airlines	B38M (N8939Q)	
+Landed 09:06
+09:39	F91230	
+San Francisco (SFO)
+Frontier (Rocket the Hammerhead Shark Livery)	A20N (N388FR)	
+Landed 09:17
+09:40	WN472	
+Dallas (DAL)
+Southwest Airlines	B737 (N935WN)	
+Landed 09:25
+09:40	WN1527	
+Boise (BOI)
+Southwest Airlines	B38M (N8943Q)	
+Landed 09:13
+09:40	WN1623	
+Baltimore (BWI)
+Southwest Airlines	B38M (N8732S)	
+Landed 09:18
+09:40	WN1871	
+Tucson (TUS)
+Southwest Airlines	B38M (N8883Q)	
+Landed 09:23
+09:40	WN2515	
+Los Angeles (LAX)
+Southwest Airlines	B737 (N901WN)	
+Landed 09:29
+09:40	WN3242	
+Kansas City (MCI)
+Southwest Airlines	B737 (N219WN)	
+Landed 09:28
+09:40	WN3428	
+Grand Rapids (GRR)
+Southwest Airlines	B738 (N8663A)	
+Landed 09:21
+09:40	WN3649	
+Washington (IAD)
+Southwest Airlines (Triple Crown Livery)	B738 (N8681M)	
+Landed 09:30
+09:45	WN513	
+San Antonio (SAT)
+Southwest Airlines	B737 (N422WN)	
+Landed 09:23
+09:45	WN2882	
+Fort Lauderdale (FLL)
+Southwest Airlines	B38M (N8839Q)	
+Landed 09:27
+09:47	AA2359	
+Dallas (DFW)
+American Airlines	A321 (N932AM)	
+Landed 10:03
+09:47	CH1810	
+Rifle (RIL)
+Bemidji Aviation	BE99 (N6645K)	
+Landed 09:44
+09:48	UA2709	
+New York (LGA)
+United Airlines	B738 (N77510)	
+Landed 09:41
+09:50	UA581	
+Des Moines (DSM)
+United Airlines	A319 (N850UA)	
+Landed 09:35
+09:50	UA728	
+Columbus (CMH)
+United Airlines	B738 (N26208)	
+Landed 09:23
+09:50	UA1045	
+Madison (MSN)
+United Airlines	B738 (N37274)	
+Landed 09:25
+09:50	UA2720	
+Memphis (MEM)
+United Airlines	A319 (N802UA)	
+Landed 09:30
+09:50	UA3903	
+Tucson (TUS)
+United Airlines	B738 (N24212)	
+Delayed 18:54
+09:51	UA1418	
+Sioux Falls (FSD)
+United Airlines	A319 (N817UA)	
+Landed 09:32
+09:55	DL751	
+New York (LGA)
+Delta Air Lines	BCS3 (N315DU)	
+Landed 09:54
+09:55	UA5752	
+Tulsa (TUL)
+United Express	E75L (N150SY)	
+Landed 09:35
+09:55	UA1256	
+Charlotte (CLT)
+United Airlines	B38M (N37318)	
+Landed 09:28
+09:55	UA5096	
+Dickinson (DIK)
+SkyWest Airlines	CRJ2 (N917SW)	
+Landed 09:34
+09:55	UA5666	
+Salt Lake City (SLC)
+United Express	E75L (N615UX)	
+Landed 09:15
+09:56	UA647	
+Boston (BOS)
+United Airlines	A21N (N54525)	
+Landed 09:38
+09:57	F92818	
+San Diego (SAN)
+Frontier (Al the Roadrunner Livery)	A20N (N346FR)	
+Landed 09:41
+09:58	UA4722	
+Colorado Springs (COS)
+United Express	CRJ2 (N976SW)	
+Landed 09:49
+10:00	UA1836	
+Minneapolis (MSP)
+United Airlines	B738 (N78501)	
+Landed 09:31
+10:00	WN2898	
+New York (LGA)
+Southwest Airlines	B738 (N8672F)	
+Landed 13:13
+10:00	UA1607	
+Indianapolis (IND)
+United Airlines	B738 (N17245)	
+Landed 09:31
+10:00	Y41760	
+Guadalajara (GDL)
+Volaris	A20N (XA-VRI)	
+Landed 09:44
+10:01	UA2159	
+Detroit (DTW)
+United Airlines	A320 (N482UA)	
+Landed 09:52
+10:02	UA1808	
+Houston (IAH)
+United Airlines	A21N (N44501)	
+Landed 09:38
+10:04	UA530	
+Raleigh-Durham (RDU)
+United Airlines	B738 (N37290)	
+Landed 09:33
+10:04	UA1714	
+New Orleans (MSY)
+United Airlines	B739 (N37474)	
+Landed 09:48
+10:04	LXJ484	
+Chicago (ORD)
+Flexjet	GLF4 (N484FX)	
+Landed 10:26
+10:05	WN284	
+Phoenix (PHX)
+Southwest Airlines	B737 (N287WN)	
+Landed 09:58
+10:05	WN2299	
+Birmingham (BHM)
+Southwest Airlines	B738 (N8551Q)	
+Landed 09:58
+10:05	UA2853	
+Dallas (DFW)
+United Airlines	A320 (N427UA)	
+Landed 09:47
+10:06	UA2412	
+Baltimore (BWI)
+United Airlines	B738 (N76517)	
+Landed 09:49
+10:07	UA4710	
+Bismarck (BIS)
+United Express	CRJ2 (N453SW)	
+Landed 09:39
+10:08	UA1424	
+Fort Lauderdale (FLL)
+United Airlines	B739 (N27477)	
+Landed 09:41
+10:08	UA5657	
+Tucson (TUS)
+United Express	E75L (N110SY)	
+Landed 09:36
+10:09	UA2493	
+Richmond (RIC)
+United Airlines	B738 (N76528)	
+Landed 09:45
+10:10	UA663	
+Cincinnati (CVG)
+United Airlines	A319 (N843UA)	
+Landed 09:40
+10:10	UA1649	
+Las Vegas (LAS)
+United Airlines	B38M (N17262)	
+Landed 09:56
+10:10	UA2711	
+Kansas City (MCI)
+United Airlines	A319 (N816UA)	
+Landed 09:46
+10:11	UA1354	
+Norfolk (ORF)
+United Airlines	A320 (N487UA)	
+Landed 09:50
+10:11	UA2703	
+Wichita (ICT)
+United Airlines	A319 (N821UA)	
+Landed 10:07
+10:13	UA340	
+Atlanta (ATL)
+United Airlines	A319 (N875UA)	
+Landed 09:51
+10:13	UA2680	
+Tampa (TPA)
+United Airlines	B39M (N17565)	
+Landed 09:40
+10:15	WN931	
+San Diego (SAN)
+Southwest Airlines	B737 (N7869A)	
+Landed 09:54
+10:15	UA2297	
+Orlando (MCO)
+United Airlines	A21N (N24526)	
+Landed 10:02
+10:16	UA1391	
+Santa Ana (SNA)
+United Airlines	A320 (N476UA)	
+Landed 09:53
+10:17	UA1210	
+Fargo (FAR)
+United Airlines	A319 (N890UA)	
+Landed 10:00
+10:17	UA2383	
+Philadelphia (PHL)
+United Airlines	B738 (N37263)	
+Landed 09:56
+10:17	UA4741	
+Lexington (LEX)
+United Express	E75L (N84378)	
+Landed 09:56
+10:18	UA792	
+Omaha (OMA)
+United Airlines	A320 (N426UA)	
+Landed 10:29
+10:18	UA1029	
+St. Louis (STL)
+United Airlines	A320 (N479UA)	
+Landed 10:15
+10:18	UA1402	
+Syracuse (SYR)
+United Airlines	A319 (N846UA)	
+Landed 10:24
+10:18	UA1716	
+Nashville (BNA)
+United Airlines	B38M (N47281)	
+Landed 10:34
+10:19	UA1252	
+Rapid City (RAP)
+United Airlines	A319 (N831UA)	
+Landed 10:13
+10:20	UA1727	
+San Francisco (SFO)
+United Airlines	A21N (N14503)	
+Landed 09:52
+10:20	AC1039	
+Toronto (YYZ)
+Air Canada	BCS3 (C-GMYU)	
+Landed 10:30
+10:20	UA1765	
+Pittsburgh (PIT)
+United Airlines	B738 (N37267)	
+Landed 10:39
+10:20	UA1923	
+Fort Myers (RSW)
+United Airlines	B38M (N47280)	
+Landed 09:57
+10:20	UA5770	
+Aspen (ASE)
+United Express	E75L (N626SY)	
+Landed 09:43
+10:21	UA1500	
+Bentonville (XNA)
+United Airlines	A319 (N872UA)	
+Landed 10:16
+10:21	UA2622	
+Jacksonville (JAX)
+United Airlines	A319 (N836UA)	
+Landed 09:54
+10:21	UA5089	
+Cody (COD)
+United Express	CRJ2 (N979SW)	
+Landed 09:50
+10:22	F91733	
+Orlando (MCO)
+Frontier (Mia the Dolphin Livery)	A20N (N311FR)	
+Landed 09:59
+10:22	UA5348	
+Lincoln (LNK)
+United Express	CRJ2 (N246PS)	
+Landed 10:20
+10:22	UA5673	
+Knoxville (TYS)
+United Express	E75L (N629SY)	
+Landed 10:06
+10:23	AA1647	
+Chicago (ORD)
+American Airlines	B738 (N865NN)	
+Landed 10:13
+10:23	UA1690	
+Cleveland (CLE)
+United Airlines	B738 (N33284)	
+Landed 10:05
+10:24	UA5898	
+Springfield (SGF)
+United Express	CRJ7 (N782SK)	
+Landed 11:31
+10:24	UA5317	
+Appleton (ATW)
+United Express	E75L (N623UX)	
+Landed 10:05
+10:25	UA5295	
+Birmingham (BHM)
+United Express	E75L (N131SY)	
+Landed 09:53
+10:26	DL499	
+Boston (BOS)
+Delta Air Lines	A21N (N583DT)	
+Landed 10:37
+10:26	UA2735	
+Los Angeles (LAX)
+United Airlines	B739 (N61887)	
+Landed 09:59
+10:26	UA595	
+Austin (AUS)
+United Airlines	A320 (N1902U)	
+Landed 10:00
+10:27	AC1073	
+Montreal (YUL)
+Air Canada	BCS3 (C-GJXV)	
+Landed 10:09
+10:27	UA2167	
+San Antonio (SAT)
+United Airlines	B738 (N36207)	
+Landed 10:11
+10:28	UA1762	
+Washington (IAD)
+United Airlines	B772 (N213UA)	
+Landed 10:07
+10:29	UA4640	
+Huntsville (HSV)
+United Express	E75L (N85373)	
+Landed 10:19
+10:30	DL2849	
+Minneapolis (MSP)
+Delta Air Lines	A320 (N358NW)	
+Landed 10:11
+10:30	WN3657	
+Burbank (BUR)
+Southwest Airlines	B737 (N947WN)	
+Landed 10:01
+10:30	UA4692	
+Moline (MLI)
+United Express	E75L (N114SY)	
+Landed 10:01
+10:30	UA5430	
+Peoria (PIA)
+United Express	E75L (N206SY)	
+Landed 10:25
+10:30	UA5699	
+Little Rock (LIT)
+United Express	E75L (N207SY)	
+Landed 10:10
+10:30	UA5764	
+Dayton (DAY)
+United Express	E75L (N213SY)	
+Landed 10:09
+10:31	UA364	
+Windsor Locks (BDL)
+United Airlines	B738 (N77539)	
+Landed 10:15
+10:31	UA513	
+New York (EWR)
+United Airlines	B752 (N21108)	
+Landed 10:17
+10:31	UA5820	
+Midland (MAF)
+United Express	CRJ2 (N929EV)	
+Landed 10:23
+10:32	UA1498	
+Phoenix (PHX)
+United Airlines	B38M (N17361)	
+Landed 10:11
+10:32	UA1320	
+Miami (MIA)
+United Airlines	B38M (N17363)	
+Landed 10:02
+10:32	UA5486	
+Milwaukee (MKE)
+United Express	E75L (N124SY)	
+Landed 10:12
+10:33	UA5507	
+Greensboro (GSO)
+United Express	E75L (N165SY)	
+Landed 10:13
+10:34	UA5256	
+Oklahoma City (OKC)
+United Express	E75L (N105SY)	
+Landed 10:21
+10:34	UA5900	
+Shreveport (SHV)
+United Express	E75L (N139SY)	
+Landed 10:20
+10:35	UA2270	
+San Diego (SAN)
+United Airlines	B39M (N77585)	
+Landed 10:26
+10:35	UA5634	
+Colorado Springs (COS)
+SkyWest Airlines	CRJ2 (N928EV)	
+Landed 10:43
+10:35	UA1479	
+Cedar Rapids (CID)
+United Airlines	A319 (N845UA)	
+Landed 10:28
+10:41	UA1599	
+Chicago (ORD)
+United Airlines	A21N (N14512)	
+Landed 10:25
+10:44	DL532	
+New York (JFK)
+Delta Air Lines	A21N (N588DT)	
+Landed 10:22
+10:46	KG279	
+Cheyenne (CYS)
+Key Lime Air	SW4 (N31171)	
+Landed 10:30
+10:50	WN1053	
+Phoenix (PHX)
+Southwest Airlines	B738 (N8629A)	
+Landed 10:35
+11:00	WN114	
+Nashville (BNA)
+Southwest Airlines	B737 (N953WN)	
+Landed 10:52
+11:00	WN992	
+Miami (MIA)
+Southwest Airlines	B738 (N8574Z)	
+Landed 10:37
+11:01	AA1313	
+Philadelphia (PHL)
+American Airlines	B738 (N987AN)	
+Landed 10:50
+11:05	WN3125	
+St. Louis (STL)
+Southwest Airlines	B38M (N8931L)	
+Landed 10:57
+11:08	DL2181	
+Atlanta (ATL)
+Delta Air Lines	A321 (N122DN)	
+Landed 10:45
+11:13	DL681	
+Salt Lake City (SLC)
+Delta Air Lines	BCS3 (N323DU)	
+Landed 10:47
+11:15	WN1929	
+Chicago (MDW)
+Southwest Airlines	B38M (N8719Q)	
+Landed 10:55
+11:18	AA1747	
+Miami (MIA)
+American Airlines	A321 (N575UW)	
+Landed 10:48
+11:20	WN286	
+Las Vegas (LAS)
+Southwest Airlines	B738 (N8565Z)	
+Landed 11:02
+11:20	UA5091	
+North Platte (LBF)
+United Express	CRJ2 (N679SA)	
+Landed 10:54
+11:20	9X342	
+Pueblo (PUB)
+Surf Air	PC12 (N821SA)	
+Landed 10:58
+11:22	UA5022	
+Laramie (LAR)
+United Express	CRJ2 (N971SW)	
+Landed 10:44
+11:30	WN443	
+Seattle (SEA)
+Southwest Airlines	B738 (N8537Z)	
+Landed 10:45
+11:30	WN1590	
+Houston (HOU)
+Southwest Airlines	B738 (N8623F)	
+Landed 11:14
+11:30	WN2849	
+Santa Ana (SNA)
+Southwest Airlines	B737 (N7878A)	
+Landed 11:19
+11:30	UA5111	
+Dodge City (DDC)
+SkyWest Airlines	CRJ2 (N709BR)	
+Landed 10:47
+11:32	UA5033	
+Liberal (LBL)
+United Express	CRJ2 (N912EV)	
+Landed 11:08
+11:35	WN1639	
+San Francisco (SFO)
+Southwest Airlines	B737 (N297WN)	
+Landed 11:21
+11:35	WN1687	
+Providence (PVD)
+Southwest Airlines	B38M (N8763L)	
+Landed 11:41
+11:36	UA5127	
+Prescott (PRC)
+SkyWest Airlines	CRJ2 (N916SW)	
+Landed 11:49
+11:40	UA5548	
+Colorado Springs (COS)
+SkyWest Airlines	CRJ2 (N923SW)	
+Landed 11:09
+11:41	DL3699	
+Los Angeles (LAX)
+Delta Connection	E75L (N323SY)	
+Landed 11:33
+11:45	WN1104	
+Tucson (TUS)
+Southwest Airlines	B38M (N8796L)	
+Landed 11:34
+11:48	AS682	
+Seattle (SEA)
+Alaska Airlines	B738 (N590AS)	
+Landed 11:23
+11:49	Y4760	
+Mexico City (MEX)
+Volaris	A20N (XA-VRY)	
+Landed 11:40
+11:50	WN4541	
+San Diego (SAN)
+Southwest Airlines	B737 (N7727A)	
+Landed 12:14
+11:50	KG147	
+Greeley (GXY)
+Key Lime Air	SW4 (N2728G)	
+Landed 11:38
+11:51	AA1756	
+Dallas (DFW)
+American Airlines	A321 (N553UW)	
+Landed 11:34
+11:57	UA434	
+Houston (IAH)
+United Airlines	A21N (N24519)	
+Landed 11:37
+12:00	WN193	
+Milwaukee (MKE)
+Southwest Airlines	B38M (N8866H)	
+Landed 11:43
+12:00	WN585	
+Minneapolis (MSP)
+Southwest Airlines	B38M (N8855Q)	
+Landed 12:40
+12:00	WN1826	
+San Jose (SJC)
+Southwest Airlines	B737 (N226WN)	
+Landed 11:38
+12:00	WN2013	
+Oakland (OAK)
+Southwest Airlines	B738 (N8684F)	
+Landed 11:47
+12:00	WN2065	
+Oklahoma City (OKC)
+Southwest Airlines	B38M (N8899H)	
+Landed 11:43
+12:00	WN2131	
+Long Beach (LGB)
+Southwest Airlines	B738 (N8616C)	
+Landed 12:15
+12:00	WN2758	
+Burbank (BUR)
+Southwest Airlines	B737 (N478WN)	
+Landed 11:45
+12:00	UA1537	
+Washington (IAD)
+United Airlines	B753 (N56859)	
+Landed 11:53
+12:01	UA1009	
+Reno (RNO)
+United Airlines	A320 (N498UA)	
+Landed 11:39
+12:01	UA2380	
+Miami (MIA)
+United Airlines	B738 (N77542)	
+Landed 11:36
+12:02	AA1332	
+Phoenix (PHX)
+American Airlines	B738 (N862NN)	
+Landed 12:22
+12:02	UA662	
+Boston (BOS)
+United Airlines	B739 (N67812)	
+Landed 11:48
+12:03	F91748	
+Phoenix (PHX)
+Frontier (Monty the Margay Cat Livery)	A20N (N381FR)	
+Landed 11:30
+12:04	UA1999	
+Santa Ana (SNA)
+United Airlines	B738 (N33266)	
+Landed 11:49
+12:05	UA1341	
+Fort Lauderdale (FLL)
+United Airlines	B738 (N25201)	
+Landed 11:44
+12:05	WN2034	
+Tulsa (TUL)
+Southwest Airlines	B737 (N919WN)	
+Landed 11:54
+12:05	UA2285	
+Sacramento (SMF)
+United Airlines	B739 (N75433)	
+Landed 11:31
+12:06	UA1505	
+San Jose (SJC)
+United Airlines	A319 (N884UA)	
+Landed 11:49
+12:09	UA1268	
+Toronto (YYZ)
+United Airlines	A319 (N880UA)	
+Landed 11:39
+12:10	WN295	
+Ontario (ONT)
+Southwest Airlines	B38M (N8823Q)	
+Landed 11:54
+12:10	WN954	
+Buffalo (BUF)
+Southwest Airlines	B737 (N7887A)	
+Landed 11:54
+12:10	WN1944	
+Indianapolis (IND)
+Southwest Airlines	B737 (N241WN)	
+Landed 12:31
+12:10	WN2596	
+Omaha (OMA)
+Southwest Airlines	B38M (N8753Q)	
+Landed 12:10
+12:10	UA142	
+Tokyo (NRT)
+United Airlines	B789 (N38955)	
+Landed 11:35
+12:11	UA2476	
+San Diego (SAN)
+United Airlines	B738 (N14231)	
+Landed 12:06
+12:12	UA1022	
+Orlando (MCO)
+United Airlines	B753 (N57864)	
+Landed 14:48
+12:13	UA5614	
+Sioux Falls (FSD)
+United Express	CRJ2 (N466SW)	
+Landed 12:03
+12:15	UA5561	
+Palm Springs (PSP)
+United Express	CRJ7 (N794SK)	
+Landed 11:50
+12:15	WN332	
+Los Angeles (LAX)
+Southwest Airlines	B738 (N8576Z)	
+Landed 11:51
+12:15	WN781	
+Kansas City (MCI)
+Southwest Airlines	B738 (N8631A)	
+Landed 12:08
+12:15	WN1098	
+Tampa (TPA)
+Southwest Airlines	B38M (N8825Q)	
+Landed 12:14
+12:15	WN2552	
+New Orleans (MSY)
+Southwest Airlines	B38M (N8877Q)	
+Landed 12:25
+12:15	WN2608	
+Austin (AUS)
+Southwest Airlines	B737 (N470WN)	
+Landed 11:52
+12:15	WN3063	
+Salt Lake City (SLC)
+Southwest Airlines	B738 (N8314L)	
+Landed 11:57
+12:15	WN3846	
+Dallas (DAL)
+Southwest Airlines	B38M (N8936Q)	
+Landed 12:00
+12:15	WN3983	
+Sacramento (SMF)
+Southwest Airlines	B38M (N8905Q)	
+Landed 12:01
+12:16	UA1912	
+Los Angeles (LAX)
+United Airlines	B739 (N57439)	
+Landed 12:03
+12:19	F91129	
+Houston (HOU)
+Frontier (Choo the Pika Livery)	A20N (N331FR)	
+Landed 11:46
+12:20	UA501	
+San Francisco (SFO)
+United Airlines	B739 (N62892)	
+Landed 12:08
+12:20	UA5030	
+Butte (BTM)
+United Express	CRJ2 (N955SW)	
+Landed 11:41
+12:22	UA2375	
+Portland (PDX)
+United Airlines	B39M (N77580)	
+Landed 11:46
+12:22	UA5868	
+Rapid City (RAP)
+United Express	CRJ2 (N207PS)	
+Landed 11:50
+12:23	UA5653	
+Salt Lake City (SLC)
+United Express	E75L (N85369)	
+Landed 11:51
+12:24	DL530	
+Atlanta (ATL)
+Delta Air Lines	A321 (N372DN)	
+Landed 12:12
+12:24	F92016	
+Las Vegas (LAS)
+Frontier (Hamber the California Condor Livery)	A21N (N609FR)	
+Landed 11:53
+12:25	UA5241	
+Oklahoma City (OKC)
+United Express	E75L (N161SY)	
+Landed 11:55
+12:25	WN2188	
+Fort Myers (RSW)
+Southwest Airlines	B738 (N8312C)	
+Landed 12:04
+12:26	UA5883	
+Santa Fe (SAF)
+United Express	E75L (N103SY)	
+Landed 11:57
+12:28	UA215	
+Bozeman (BZN)
+United Airlines	A320 (N425UA)	
+Landed 12:31
+12:28	UA1327	
+Atlanta (ATL)
+United Airlines	A320 (N454UA)	
+Landed 12:05
+12:29	UA539	
+Cleveland (CLE)
+United Airlines	A320 (N443UA)	
+Landed 12:08
+12:29	UA2604	
+Las Vegas (LAS)
+United Airlines	B738 (N11206)	
+Landed 12:17
+12:30	WN1348	
+Pensacola (PNS)
+Southwest Airlines	B737 (N564WN)	
+Landed 12:19
+12:30	WN1528	
+Portland (PDX)
+Southwest Airlines	B737 (N257WN)	
+Landed 12:07
+12:31	UA1191	
+Burbank (BUR)
+United Airlines	A320 (N438UA)	
+Landed 12:05
+12:31	UA2151	
+New York (EWR)
+United Airlines	B739 (N81449)	
+Landed 12:20
+12:31	UA5787	
+Fresno (FAT)
+United Express	E75L (N82366)	
+Landed 12:11
+12:33	UA2633	
+New York (LGA)
+United Airlines	B738 (N14249)	
+Landed 12:34
+12:33	AM658	
+Mexico City (MEX)
+Aeromexico	B39M (XA-IMH)	
+Landed 12:15
+12:33	UA640	
+Vancouver (YVR)
+United Airlines	A319 (N897UA)	
+Landed 11:56
+12:34	UA5471	
+Wichita (ICT)
+United Express	E75L (N134SY)	
+Landed 12:09
+12:36	UA5834	
+Albuquerque (ABQ)
+United Express	CRJ7 (N796SK)	
+Landed 12:10
+12:36	UA597	
+Seattle (SEA)
+United Airlines	A21N (N14534)	
+Landed 11:58
+12:36	UA5793	
+Idaho Falls (IDA)
+United Express	CRJ2 (N967SW)	
+Landed 12:02
+12:39	UA1803	
+Chicago (ORD)
+United Airlines	B739 (N78448)	
+Landed 12:17
+12:39	UA5543	
+Jackson (JAC)
+United Express	E75L (N209SY)	
+Landed 12:05
+12:40	UA4666	
+Boise (BOI)
+United Express	CRJ7 (N784SK)	
+Landed 12:12
+12:40	WN1139	
+Bozeman (BZN)
+Southwest Airlines	B38M (N8716B)	
+Landed 12:23
+12:40	WN3784	
+Phoenix (PHX)
+Southwest Airlines	B738 (N8693A)	
+Landed 12:54
+12:42	UA489	
+Phoenix (PHX)
+United Airlines	B738 (N77536)	
+Landed 12:25
+12:42	UA4728	
+Billings (BIL)
+United Express	CRJ2 (N953SW)	
+Landed 12:56
+12:42	UA5685	
+Williston (XWA)
+United Express	CRJ2 (N910EV)	
+Landed 12:00
+12:43	UA779	
+Austin (AUS)
+United Airlines	A319 (N815UA)	
+Landed 12:17
+12:44	UA5772	
+Aspen (ASE)
+United Express	E75L (N627SY)	
+Landed 12:19
+12:44	UA5902	
+Colorado Springs (COS)
+United Express	E75L (N624UX)	
+Landed 12:27
+12:45	UA5692	
+Bentonville (XNA)
+United Express	E75L (N87380)	
+Landed 12:23
+12:45	WN171	
+Boise (BOI)
+Southwest Airlines	B737 (N952WN)	
+Landed 13:21
+12:45	UA4709	
+Grand Junction (GJT)
+United Express	CRJ2 (N983SW)	
+Landed 12:35
+12:45	UA5276	
+Tulsa (TUL)
+United Express	CRJ7 (N779SK)	
+Landed 12:16
+12:45	UA5389	
+Fargo (FAR)
+SkyWest Airlines	CRJ2 (N449SW)	
+Landed 12:19
+12:45	UA5746	
+Tucson (TUS)
+United Express	E75L (N86372)	
+Landed 12:28
+12:46	AA6196	
+Los Angeles (LAX)
+American Eagle	E75L (N501SY)	
+Landed 12:27
+12:50	F93220	
+Salt Lake City (SLC)
+Frontier (Sage the Pygmy Rabbit Livery)	A20N (N395FR)	
+Landed 12:40
+12:51	UA5245	
+Casper (CPR)
+SkyWest Airlines	CRJ2 (N918SW)	
+Landed 12:22
+12:55	WN3711	
+San Diego (SAN)
+Southwest Airlines	B737 (N463WN)	
+Landed 13:02
+12:57	UA2049	
+Dallas (DFW)
+United Airlines	A319 (N803UA)	
+Landed 12:33
+13:00	DL1553	
+Salt Lake City (SLC)
+Delta Air Lines	BCS3 (N320DU)	
+Landed 12:42
+13:00	WN456	
+Albuquerque (ABQ)
+Southwest Airlines	B737 (N454WN)	
+Landed 12:44
+13:10	WN300	
+Las Vegas (LAS)
+Southwest Airlines	B38M (N8925Q)	
+Landed 12:46
+13:14	UA5615	
+Palm Springs (PSP)
+United Express	E75L (N625UX)	
+Landed 13:07
+13:16	UA5638	
+Durango (DRO)
+SkyWest Airlines	CRJ2 (N908EV)	
+Landed 12:38
+13:19	UA5435	
+Rapid City (RAP)
+United Express	CRJ2 (N925EV)	
+Landed 12:56
+13:21	DL2740	
+Seattle (SEA)
+Delta Air Lines	BCS1 (N102DU)	
+Landed 12:41
+13:25	KG3104	
+Cortez (CEZ)
+Private owner	SW4 (N889DC)	
+Landed 14:51
+13:25	WN3088	
+Palm Springs (PSP)
+Southwest Airlines	B738 (N8613K)	
+Landed 13:11
+13:28	AA1283	
+Charlotte (CLT)
+American Airlines	A321 (N556UW)	
+Landed 13:07
+13:35	WN1403	
+Phoenix (PHX)
+Southwest Airlines	B38M (N8828L)	
+Landed 13:30
+13:35	UA181	
+Frankfurt (FRA)
+United Airlines	B789 (N27959)	
+Landed 13:15
+13:36	F92889	
+Austin (AUS)
+Frontier (Captain the Puffin Livery)	A20N (N322FR)	
+Landed 13:18
+13:40	F91790	
+Portland (PDX)
+Frontier (Champ the Bronco Livery)	A20N (N307FR)	
+Landed 13:29
+13:49	AA420	
+Dallas (DFW)
+American Airlines	A321 (N554UW)	
+Landed 13:40
+13:49		
+Omaha (OMA)
+-	LJ45 (N325PT)	
+Landed 13:53
+13:50	AC7037	
+Dallas (DAL)
+Air Canada Jetz	A320 (C-FKPT)	
+Landed 13:43
+13:53	DL1648	
+Detroit (DTW)
+Delta Air Lines	A320 (N329NW)	
+Landed 13:39
+13:53	AS630	
+Portland (PDX)
+Alaska Airlines	B39M (N926AK)	
+Landed 13:24
+13:55	DL2927	
+Minneapolis (MSP)
+Delta Air Lines	B739 (N879DN)	
+Landed 13:36
+13:55	KG3714	
+Telluride (TEX)
+Denver Air Connection	J328 (N395DC)	
+Landed 14:43
+14:04	F91820	
+Phoenix (PHX)
+Frontier (Parish&Daisy the Burrowing Owls Livery)	A20N (N371FR)	
+Landed 13:44
+14:10	WN3480	
+Richmond (RIC)
+Southwest Airlines	B738 (N8685B)	
+Landed 13:57
+14:10	UA26	
+London (LHR)
+United Airlines	B789 (N25982)	
+Landed 13:19
+14:11	F93156	
+Los Angeles (LAX)
+Frontier (Grizwald the Bear Livery)	A20N (N391FR)	
+Landed 13:34
+14:15	WN527	
+Minneapolis (MSP)
+Southwest Airlines	B738 (N8668A)	
+Landed 14:03
+14:15	WN2893	
+Kansas City (MCI)
+Southwest Airlines	B737 (N7860A)	
+Landed 14:13
+14:15	UA1225	
+Austin (AUS)
+United Airlines	A320 (N4901U)	
+Landed 13:52
+14:15	UA5102	
+Jamestown (JMS)
+United Express	CRJ2 (N906EV)	
+Landed 13:42
+14:20	LH480	
+Munich (MUC)
+Lufthansa	A359 (D-AIVA)	
+Landed 13:47
+14:20	WN3412	
+Panama City (ECP)
+Southwest Airlines	B737 (N225WN)	
+Landed 13:54
+14:20	WN3887	
+St. Louis (STL)
+Southwest Airlines	B737 (N479WN)	
+Landed 14:06
+14:20	WN4560	
+Orlando (MCO)
+Southwest Airlines (Freedom One Livery)	B738 (N500WR)	
+Landed 14:17
+14:23	KG416	
+Greeley (GXY)
+Key Lime Air	SW4 (N31171)	
+Diverted to GXY
+14:25	WN1229	
+Salt Lake City (SLC)
+Southwest Airlines (Triple Crown Livery)	B738 (N8681M)	
+Landed 14:06
+14:25	WN2534	
+Chicago (ORD)
+Southwest Airlines	B738 (N8648A)	
+Landed 14:28
+14:26	UA264	
+San Diego (SAN)
+United Airlines	B38M (N27253)	
+Landed 14:23
+14:27	UA1260	
+Los Angeles (LAX)
+United Airlines	A21N (N14520)	
+Landed 14:14
+14:27	UA1592	
+Omaha (OMA)
+United Airlines	B738 (N76523)	
+Landed 14:00
+14:30	UA1254	
+New York (EWR)
+United Airlines	B752 (N14115)	
+Landed 14:29
+14:31	UA1102	
+Cancun (CUN)
+United Airlines	B39M (N37507)	
+Landed 14:36
+14:32	DL1675	
+Atlanta (ATL)
+Delta Air Lines	A321 (N349DX)	
+Landed 14:20
+14:32	UA2473	
+Houston (IAH)
+United Airlines	B772 (N221UA)	
+Landed 14:08
+14:35	UA1299	
+San Antonio (SAT)
+United Airlines	A319 (N829UA)	
+Landed 14:21
+14:35	9X882	
+Chadron (CDR)
+Surf Air	PC12 (N821SA)	
+Landed 14:24
+14:36	UA414	
+Boston (BOS)
+United Airlines	B739 (N36476)	
+Landed 14:26
+14:37	UA1337	
+Tampa (TPA)
+United Airlines	B738 (N76288)	
+Landed 14:19
+14:38	UA5492	
+Sioux Falls (FSD)
+United Express	CRJ7 (N797SK)	
+Landed 14:12
+14:39	UA1520	
+Orlando (MCO)
+United Airlines	B738 (N77258)	
+Landed 14:15
+14:41	UA4630	
+Colorado Springs (COS)
+United Express	E75L (N105SY)	
+Landed 14:54
+14:41	UA4807	
+Midland (MAF)
+United Express	CRJ2 (N965SW)	
+Landed 14:16
+14:43	UA588	
+Durango (DRO)
+United Airlines	A320 (N426UA)	
+Landed 14:18
+14:44	UA2490	
+Las Vegas (LAS)
+United Airlines	B738 (N77530)	
+Landed 14:11
+14:44	UA5511	
+Springfield (SGF)
+United Express	E75L (N628SY)	
+Landed 14:28
+14:45	WN492	
+Dallas (DAL)
+Southwest Airlines	B737 (N7839A)	
+Landed 14:31
+14:45	UA5881	
+Lincoln (LNK)
+SkyWest Airlines	CRJ2 (N905EV)	
+Landed 14:22
+14:46	UA421	
+Grand Junction (GJT)
+United Airlines	A320 (N1902U)	
+Landed 14:26
+14:49	UA1587	
+Washington (IAD)
+United Airlines	B39M (N77587)	
+Landed 14:43
+14:49	UA4694	
+Bismarck (BIS)
+United Express	CRJ2 (N937EV)	
+Landed 14:42
+14:51	UA2348	
+Phoenix (PHX)
+United Airlines	B739 (N78438)	
+Landed 14:29
+14:51	UA1636	
+Montrose (MTJ)
+United Airlines	A319 (N846UA)	
+Landed 14:50
+14:51	UA2168	
+Eagle (EGE)
+United Airlines	B38M (N17262)	
+Landed 14:47
+14:52	UA1753	
+Hayden (HDN)
+United Airlines	A319 (N816UA)	
+Landed 14:22
+14:53	UA4720	
+Salt Lake City (SLC)
+United Express	E75L (N607UX)	
+Landed 14:15
+14:53	UA4793	
+Des Moines (DSM)
+United Express	CRJ7 (N787SK)	
+Landed 14:33
+14:53	UA708	
+Kansas City (MCI)
+United Airlines	A319 (N893UA)	
+Landed 14:34
+14:54	UA4658	
+Casper (CPR)
+United Express	CRJ2 (N246PS)	
+Landed 14:24
+14:55	WN658	
+San Antonio (SAT)
+Southwest Airlines	B737 (N7843A)	
+Landed 14:39
+14:55	UA5084	
+Cheyenne (CYS)
+United Express	CRJ2 (N971SW)	
+Landed 14:44
+14:57	UA5346	
+Rapid City (RAP)
+United Express	E75L (N85373)	
+Landed 14:16
+14:57	UA5774	
+Aspen (ASE)
+United Express	E75L (N626SY)	
+Landed 14:38
+14:58	F92614	
+Tucson (TUS)
+Frontier (Percy the Florida Panther Livery)	A20N (N385FR)	
+Landed 14:34
+14:59	UA1615	
+San Francisco (SFO)
+United Airlines	B772 (N773UA)	
+Landed 14:45
+14:59	UA5878	
+Santa Fe (SAF)
+United Express	E75L (N85377)	
+Landed 14:39
+15:00	UA250	
+Albuquerque (ABQ)
+United Airlines	A320 (N476UA)	
+Landed 14:48
+15:00	UA1935	
+Chicago (ORD)
+United Airlines	A21N (N24508)	
+Landed 14:49
+15:00	UA4686	
+Little Rock (LIT)
+United Express	E75L (N143SY)	
+Landed 14:52
+15:00	WN1807	
+New York (LGA)
+Southwest Airlines	B38M (N8768Q)	
+Landed 14:50
+15:00	UA1380	
+Dallas (DFW)
+United Airlines	A320 (N440UA)	
+Landed 14:36
+15:00	UA1669	
+Minneapolis (MSP)
+United Airlines	B738 (N76515)	
+Unknown
+15:00	UA2200	
+New York (LGA)
+United Airlines	B738 (N14219)	
+Landed 14:38
+15:00	UA4782	
+Gunnison (GUC)
+United Express	E75L (N110SY)	
+Landed 14:32
+15:05	LF3392	
+Vernal (VEL)
+Contour Aviation	E135 (N15527)	
+Unknown
+15:06	8C3343	
+Cincinnati (CVG)
+Air Transport International	B763	
+Unknown
+15:10	F9687	
+Washington (DCA)
+Frontier (Hudson the Bog Turtle Livery)	A20N (N379FR)	
+Landed 14:41
+15:10	WN563	
+Atlanta (ATL)
+Southwest Airlines	B38M (N8884Q)	
+Landed 15:00
+15:10	WN1810	
+Las Vegas (LAS)
+Southwest Airlines	B737 (N213WN)	
+Landed 16:17
+15:13	UA2625	
+St. Louis (STL)
+United Airlines	A319 (N804UA)	
+Landed 14:56
+15:13	F94418	
+El Paso (ELP)
+Frontier (Sunny the Collared Lizard Livery)	A20N (N310FR)	
+Landed 14:53
+15:15	WN3780	
+Phoenix (PHX)
+Southwest Airlines	B38M (N8720L)	
+Landed 15:32
+15:16	DL1623	
+Salt Lake City (SLC)
+Delta Air Lines	A320 (N341NW)	
+Landed 14:56
+15:20	WN960	
+Cincinnati (CVG)
+Southwest Airlines	B38M (N8881L)	
+Landed 15:18
+15:25	WN2576	
+Charleston (CHS)
+Southwest Airlines	B38M (N8929S)	
+Landed 15:20
+15:25	WN2887	
+Nashville (BNA)
+Southwest Airlines	B737 (N920WN)	
+Landed 15:09
+15:30	WN1256	
+Baltimore (BWI)
+Southwest Airlines	B738 (N8657B)	
+Landed 15:16
+15:30	UA5063	
+Rock Springs (RKS)
+SkyWest Airlines	CRJ2 (N916SW)	
+Landed 15:37
+15:30	UA5099	
+Cody (COD)
+United Express	CRJ2 (N976SW)	
+Landed 14:58
+15:35	WN1540	
+Colorado Springs (COS)
+Southwest Airlines	B737 (N7820L)	
+Landed 15:17
+15:45	F92790	
+Reno (RNO)
+Frontier (Joaquin the Kit Fox Livery)	A20N (N387FR)	
+Landed 15:11
+15:45	WN516	
+Columbus (CMH)
+Southwest Airlines	B38M (N8815L)	
+Landed 15:41
+15:45	WN721	
+San Jose del Cabo (SJD)
+Southwest Airlines	B38M (N8912Q)	
+Landed 15:27
+15:45	UA5038	
+Gillette (GCC)
+SkyWest Airlines	CRJ2 (N917SW)	
+Landed 15:12
+15:48	F94372	
+Santa Ana (SNA)
+Frontier (Miracle the Seagull Livery)	A20N (N350FR)	
+Landed 15:13
+15:48	UA5528	
+Williston (XWA)
+United Express	CRJ2 (N915EV)	
+Landed 16:03
+15:49	F94990	
+San Diego (SAN)
+Frontier (Kit the Kermode Bear Livery)	A20N (N366FR)	
+Landed 16:06
+15:49	UA5051	
+Riverton (RIW)
+SkyWest Charter	CRJ2 (N909EV)	
+Landed 15:35
+15:50	WN3402	
+Dallas (DAL)
+Southwest Airlines	B737 (N935WN)	
+Landed 15:29
+15:51	AA1832	
+Dallas (DFW)
+American Airlines	A321 (N906AA)	
+Landed 15:39
+15:55	LH446	
+Frankfurt (FRA)
+Lufthansa	A346 (D-AIHZ)	
+Landed 15:52
+15:56	UA1109	
+Bozeman (BZN)
+United Airlines	B739 (N27477)	
+Landed 15:44
+15:56	UA4713	
+Monterey (MRY)
+United Express	E75L (N136SY)	
+Landed 15:24
+15:57	5X5806	
+Ontario (ONT)
+UPS	B752 (N423UP)	
+Landed 17:24
+15:59	UA2431	
+Jackson (JAC)
+United Airlines	A319 (N875UA)	
+Landed 15:26
+15:59	UA5125	
+Sioux City (SUX)
+United Express	CRJ2 (N929EV)	
+Landed 15:36
+16:01	UA1323	
+Las Vegas (LAS)
+United Airlines	A21N (N14515)	
+Landed 15:33
+16:01	F94522	
+Burbank (BUR)
+Frontier (Hugh the Manatee Livery)	A320 (N238FR)	
+Landed 15:16
+16:02	UA4721	
+Pasco (PSC)
+United Express	E75L (N168SY)	
+Landed 15:30
+16:05	UA5929	
+Idaho Falls (IDA)
+United Express	CRJ7 (N782SK)	
+Landed 16:06
+16:05	WN1509	
+Sacramento (SMF)
+Southwest Airlines	B38M (N8765Q)	
+Landed 15:51
+16:05	WN1643	
+Oakland (OAK)
+Southwest Airlines	B737 (N209WN)	
+Landed 15:46
+16:05	WN1955	
+Fresno (FAT)
+Southwest Airlines	B738 (N8555Z)	
+Landed 15:28
+16:05	WN3848	
+San Francisco (SFO)
+Southwest Airlines	B38M (N8803L)	
+Landed 15:56
+16:06	UA1953	
+Calgary (YYC)
+United Airlines	B738 (N38268)	
+Landed 15:31
+16:08	UA2728	
+Los Angeles (LAX)
+United Airlines	A21N (N14521)	
+Landed 15:45
+16:08	UA1790	
+Salt Lake City (SLC)
+United Airlines	B738 (N77542)	
+Landed 16:39
+16:08	UA4764	
+Fresno (FAT)
+United Express	E75L (N617UX)	
+Landed 15:40
+16:09	5X5804	
+Louisville (SDF)
+UPS	A306 (N138UP)	
+Landed 16:20
+16:10	WN651	
+Bozeman (BZN)
+Southwest Airlines	B738 (N8574Z)	
+Landed 15:41
+16:10	WN1277	
+Spokane (GEG)
+Southwest Airlines	B38M (N8757L)	
+Landed 15:47
+16:10	WN3301	
+Austin (AUS)
+Southwest Airlines	B737 (N563WN)	
+Landed 16:00
+16:12	UA478	
+Billings (BIL)
+United Airlines	B738 (N78501)	
+Landed 15:42
+16:14	UA5911	
+Helena (HLN)
+United Express	CRJ2 (N979SW)	
+Landed 16:28
+16:15	WN432	
+Los Angeles (LAX)
+Southwest Airlines	B738 (N8656B)	
+Landed 15:53
+16:15	WN2653	
+Phoenix (PHX)
+Southwest Airlines	B38M (N8850Q)	
+Landed 16:01
+16:15	WN2672	
+Tucson (TUS)
+Southwest Airlines	B738 (N8661A)	
+Landed 16:31
+16:15	WN3429	
+Seattle (SEA)
+Southwest Airlines	B738 (N8524Z)	
+Landed 15:33
+16:20	LF3340	
+Moab (CNY)
+Contour Aviation	E135 (N15527)	
+Landed 15:38
+16:20	WN376	
+Reno (RNO)
+Southwest Airlines	B38M (N8810L)	
+Landed 15:50
+16:20	WN471	
+Ontario (ONT)
+Southwest Airlines	B737 (N569WN)	
+Landed 15:57
+16:20	WN1306	
+San Diego (SAN)
+Southwest Airlines	B737 (N455WN)	
+Landed 16:12
+16:20	WN1396	
+San Jose (SJC)
+Southwest Airlines	B38M (N8802Q)	
+Landed 16:00
+16:20	WN1887	
+Portland (PDX)
+Southwest Airlines	B38M (N8860S)	
+Landed 16:01
+16:20	WN1969	
+Salt Lake City (SLC)
+Southwest Airlines	B38M (N8805L)	
+Landed 16:11
+16:20	WN2249	
+Burbank (BUR)
+Southwest Airlines	B737 (N966WN)	
+Landed 15:54
+16:20	WN3663	
+Santa Ana (SNA)
+Southwest Airlines	B737 (N969WN)	
+Landed 16:05
+16:21	UA1374	
+San Diego (SAN)
+United Airlines	A21N (N14524)	
+Landed 16:07
+16:21	UA5273	
+Minot (MOT)
+SkyWest Airlines	CRJ2 (N928EV)	
+Landed 15:59
+16:22	UA651	
+Colorado Springs (COS)
+United Airlines	A320 (N443UA)	
+Landed 16:53
+16:24	UA5268	
+Hailey (SUN)
+United Express	E75L (N87367)	
+Landed 15:59
+16:24	UA5830	
+San Luis Obispo (SBP)
+United Express	E75L (N166SY)	
+Landed 15:58
+16:25	KG3585	
+Alamosa (ALS)
+Denver Air Connection	E145 (N970DC)	
+Delayed 19:21
+16:25	UA1422	
+Sacramento (SMF)
+United Airlines	B738 (N76515)	
+Landed 16:09
+16:25	WN1322	
+Norfolk (ORF)
+Southwest Airlines	B737 (N498WN)	
+Landed 16:27
+16:25	WN2520	
+Jacksonville (JAX)
+Southwest Airlines	B738 (N8612K)	
+Landed 16:27
+16:25	BA219	
+London (LHR)
+British Airways	A35K (G-XWBO)	
+Landed 15:20
+16:26	UA1356	
+Phoenix (PHX)
+United Airlines	B739 (N37474)	
+Landed 16:14
+16:26	UA1894	
+El Paso (ELP)
+United Airlines	A319 (N845UA)	
+Landed 16:23
+16:26	UA2093	
+Grand Rapids (GRR)
+United Airlines	B738 (N76526)	
+Landed 15:56
+16:26	UA1729	
+Fort Lauderdale (FLL)
+United Airlines	B38M (N37313)	
+Landed 16:07
+16:28	UA4635	
+Grand Junction (GJT)
+United Express	CRJ2 (N939SW)	
+Landed 16:54
+16:29	UA5441	
+Great Falls (GTF)
+United Express	E75L (N165SY)	
+Landed 16:44
+16:30	UA1588	
+Chicago (ORD)
+United Airlines	B753 (N74856)	
+Landed 16:47
+16:30	WN1144	
+Las Vegas (LAS)
+Southwest Airlines	B38M (N8856S)	
+Landed 16:41
+16:30	WN2275	
+Windsor Locks (BDL)
+Southwest Airlines	B38M (N8760L)	
+Landed 16:32
+16:30	UA5809	
+Casper (CPR)
+United Express	CRJ2 (N983SW)	
+Landed 16:36
+16:30	DL716	
+New York (LGA)
+Delta Air Lines	BCS3 (N328DU)	
+Landed 16:19
+16:31	UA616	
+Portland (PDX)
+United Airlines	B738 (N12221)	
+Landed 15:55
+16:31	UA2292	
+Burbank (BUR)
+United Airlines	A319 (N822UA)	
+Landed 16:13
+16:31	UA2660	
+Louisville (SDF)
+United Airlines	A319 (N883UA)	
+Landed 16:15
+16:32	UA2638	
+Santa Barbara (SBA)
+United Airlines	B738 (N18243)	
+Landed 16:46
+16:33	UA4702	
+Bakersfield (BFL)
+United Express	E75L (N211SY)	
+Landed 16:03
+16:35	AC1041	
+Toronto (YYZ)
+Air Canada	BCS3 (C-GVDP)	
+Landed 16:09
+16:35	UA241	
+Houston (IAH)
+United Airlines	A21N (N14511)	
+Landed 16:14
+16:35	UA5689	
+Eagle (EGE)
+United Express	E75L (N87380)	
+Landed 16:48
+16:36	UA2173	
+Boise (BOI)
+United Airlines	B738 (N77510)	
+Landed 16:37
+16:37	UA2470	
+Vancouver (YVR)
+United Airlines	B738 (N54241)	
+Landed 16:51
+16:38	UA1662	
+Missoula (MSO)
+United Airlines	A320 (N479UA)	
+Landed 16:10
+16:39	UA2076	
+Santa Ana (SNA)
+United Airlines	B38M (N57299)	
+Landed 16:36
+16:39	UA2120	
+New York (EWR)
+United Airlines	B39M (N37525)	
+Landed 16:34
+16:39	UA5966	
+Arcata (ACV)
+United Express	E75L (N613UX)	
+Landed 16:19
+16:40	AS620	
+Seattle (SEA)
+Alaska Airlines	B739 (N495AS)	
+Landed 17:04
+16:40	UA726	
+Seattle (SEA)
+United Airlines	B739 (N47414)	
+Landed 16:16
+16:40	UA1246	
+Palm Springs (PSP)
+United Airlines	A319 (N850UA)	
+Landed 16:25
+16:40	UA1510	
+Tucson (TUS)
+United Airlines	B739 (N75433)	
+Landed 16:59
+16:40	UA1766	
+Nashville (BNA)
+United Airlines	B738 (N77525)	
+Landed 16:22
+16:40	UA1791	
+San Francisco (SFO)
+United Airlines	B739 (N62883)	
+Landed 16:50
+16:40	UA5776	
+Aspen (ASE)
+United Express	E75L (N627SY)	
+Landed 16:20
+16:40	WN2418	
+Little Rock (LIT)
+Southwest Airlines	B737 (N7861J)	
+Landed 16:58
+16:40	UA479	
+Cincinnati (CVG)
+United Airlines	A319 (N896UA)	
+Landed 17:45
+16:40	UA5875	
+Medford (MFR)
+United Express	E75L (N133SY)	
+Landed 16:05
+16:43	UA1132	
+Kalispell (FCA)
+United Airlines	A319 (N872UA)	
+Landed 16:30
+16:43	UA5080	
+Sheridan (SHR)
+SkyWest Airlines	CRJ2 (N923SW)	
+Landed 16:57
+16:44	AA2622	
+Chicago (ORD)
+American Airlines	A319 (N8030F)	
+Landed 16:38
+16:45	WN425	
+Cleveland (CLE)
+Southwest Airlines	B738 (N8557Q)	
+Landed 16:24
+16:45	WN1682	
+Washington (IAD)
+Southwest Airlines	B38M (N8893L)	
+Landed 16:28
+16:45	WN4542	
+Kansas City (MCI)
+Southwest Airlines	B737 (N460WN)	
+Landed 16:46
+16:47	UA5952	
+Durango (DRO)
+United Express	CRJ2 (N953SW)	
+Landed 17:09
+16:49	UA5727	
+Bishop (BIH)
+United Express	E75L (N623UX)	
+Landed 16:42
+16:49	UA1565	
+Redmond (RDM)
+United Airlines	B38M (N37307)	
+Landed 16:17
+16:50	WN3011	
+Albany (ALB)
+Southwest Airlines	B737 (N276WN)	
+Landed 17:47
+16:51	KG646	
+Alliance (AIA)
+Key Lime Air	SW4 (N538KL)	
+Diverted to LAA
+16:52	UA464	
+New Orleans (MSY)
+United Airlines	A320 (N451UA)	
+Landed 16:25
+16:55	UA1263	
+Eugene (EUG)
+United Airlines	B738 (N73275)	
+Landed 16:21
+16:55	UA1784	
+Madison (MSN)
+United Airlines	B738 (N26208)	
+Landed 16:42
+16:55	UA1942	
+Ontario (ONT)
+United Airlines	A319 (N831UA)	
+Landed 16:33
+16:56	DL1025	
+Minneapolis (MSP)
+Delta Air Lines	A320 (N324US)	
+Landed 17:08
+16:56	UA1255	
+Spokane (GEG)
+United Airlines	B738 (N37274)	
+Landed 16:38
+16:58	UA2187	
+Milwaukee (MKE)
+United Airlines	A319 (N802UA)	
+Landed 16:30
+16:58	UA2399	
+Indianapolis (IND)
+United Airlines	B739 (N61887)	
+Landed 16:48
+16:58	UA1389	
+Columbus (CMH)
+United Airlines	B738 (N77518)	
+Landed 16:31
+17:00	KG4144	
+McCook (MCK)
+Private owner	SW4 (N889DC)	
+Delayed 18:52
+17:00	WN1410	
+Indianapolis (IND)
+Southwest Airlines	B38M (N8883Q)	
+Landed 16:42
+17:00	WN2205	
+Baltimore (BWI)
+Southwest Airlines	B738 (N8570W)	
+Landed 17:31
+17:00	UA2717	
+Memphis (MEM)
+United Airlines	A319 (N817UA)	
+Landed 16:52
+17:01	UA1943	
+Reno (RNO)
+United Airlines	B738 (N76528)	
+Landed 16:45
+17:02	UA514	
+Cedar Rapids (CID)
+United Airlines	A319 (N836UA)	
+Landed 16:44
+17:05	WN4738	
+Phoenix (PHX)
+Southwest Airlines	B737 (N7857B)	
+Landed 16:53
+17:06	DL519	
+Atlanta (ATL)
+Delta Air Lines	A321 (N108DN)	
+Landed 16:59
+17:06	FX529	
+Memphis (MEM)
+FedEx	B763 (N294FE)	
+Landed 17:15
+17:10	WN409	
+Charlotte (CLT)
+Southwest Airlines	B737 (N264LV)	
+Landed 17:01
+17:12	DL2431	
+Detroit (DTW)
+Delta Air Lines	B739 (N928DU)	
+Landed 17:03
+17:17	UA1918	
+Liberia (LIR)
+United Airlines	B38M (N17347)	
+Landed 17:01
+17:17		
+Aspen (ASE)
+-	SF50 (N8HS)	
+Landed 17:11
+17:18	UA2152	
+San Jose del Cabo (SJD)
+United Airlines	B738 (N18220)	
+Landed 17:03
+17:18	5X5808	
+Louisville (SDF)
+UPS	B763 (N372UP)	
+Landed 17:19
+17:19	UA296	
+Puerto Vallarta (PVR)
+United Airlines	B738 (N77520)	
+Landed 17:06
+17:19	UA5545	
+Rapid City (RAP)
+United Express	CRJ2 (N466SW)	
+Landed 16:50
+17:20	AC8712	
+Vancouver (YVR)
+Air Canada Express	CRJ9 (C-FKJZ)	
+Landed 16:56
+17:20	9X346	
+Pueblo (PUB)
+Surf Air	PC12 (N828SA)	
+Landed 17:16
+17:28	FX3702	
+Indianapolis (IND)
+FedEx	B763 (N145FE)	
+Landed 17:17
+17:35	UA263	
+London (LHR)
+United Airlines	B789 (N29984)	
+Landed 16:55
+17:39	UA2239	
+Windsor Locks (BDL)
+United Airlines	A320 (N485UA)	
+Landed 17:21
+17:40	AA1322	
+Dallas (DFW)
+American Airlines	A321 (N155NN)	
+Landed 17:41
+17:40	WN1650	
+Las Vegas (LAS)
+Southwest Airlines	B737 (N7742B)	
+Landed 17:15
+17:40	UA5393	
+Huntsville (HSV)
+United Express	E75L (N150SY)	
+Landed 17:08
+17:41	UA302	
+Detroit (DTW)
+United Airlines	A320 (N491UA)	
+Landed 17:12
+17:42	UA2861	
+Orlando (MCO)
+United Airlines	A21N (N14530)	
+Landed 17:18
+17:45	F93285	
+Cincinnati (CVG)
+Frontier (Clark & Coral the Reef Sharks Livery)	A21N (N614FR)	
+Landed 17:28
+17:50	WN3127	
+Phoenix (PHX)
+Southwest Airlines	B738 (N8584Z)	
+Landed 17:33
+17:55	WN1902	
+Boston (BOS)
+Southwest Airlines	B38M (N8847Q)	
+Landed 18:08
+17:55	WN2789	
+Tampa (TPA)
+Southwest Airlines	B738 (N8549Z)	
+Landed 18:40
+17:57	UA486	
+Cleveland (CLE)
+United Airlines	B738 (N17244)	
+Landed 17:33
+17:57	UA4726	
+Asheville (AVL)
+United Express	E75L (N127SY)	
+Landed 17:58
+17:57	UA5551	
+Idaho Falls (IDA)
+United Express	CRJ7 (N794SK)	
+Landed 18:00
+17:57	UA5472	
+Midland (MAF)
+United Express	CRJ2 (N679SA)	
+Landed 17:35
+17:58	UA1262	
+Knoxville (TYS)
+United Airlines	A319 (N852UA)	
+Landed 17:36
+17:59	EI59	
+Dublin (DUB)
+Aer Lingus	A332 (EI-DUO)	
+Landed 17:06
+17:59	UA557	
+Charleston (CHS)
+United Airlines	A320 (N437UA)	
+Landed 18:01
+17:59	UA5848	
+Sioux Falls (FSD)
+SkyWest Airlines	CRJ2 (N709BR)	
+Landed 17:31
+17:59	UA4743	
+Amarillo (AMA)
+SkyWest Airlines	CRJ2 (N908EV)	
+Landed 17:38
+17:59	UA5623	
+Winnipeg (YWG)
+United Express	E75L (N87365)	
+Landed 17:26
+18:00	UA4634	
+Fargo (FAR)
+SkyWest Airlines	CRJ2 (N918SW)	
+Landed 18:37
+18:01	UA1787	
+Las Vegas (LAS)
+United Airlines	B39M (N37510)	
+Landed 17:44
+18:02	UA235	
+Atlanta (ATL)
+United Airlines	A320 (N489UA)	
+Landed 17:47
+18:02	UA618	
+Philadelphia (PHL)
+United Airlines	B738 (N78511)	
+Landed 17:50
+18:02	UA2860	
+New York (LGA)
+United Airlines	B38M (N37324)	
+Landed 17:53
+18:03	UA1092	
+Savannah (SAV)
+United Airlines	A319 (N841UA)	
+Landed 18:04
+18:04	UA1236	
+Washington (IAD)
+United Airlines	B39M (N37528)	
+Landed 18:13
+18:05	DL3697	
+Los Angeles (LAX)
+Delta Connection	E75L (N246SY)	
+Landed 17:50
+18:05	UA1801	
+Chicago (ORD)
+United Airlines	A21N (N14517)	
+Landed 17:56
+18:05	WN247	
+Albuquerque (ABQ)
+Southwest Airlines	B38M (N8942L)	
+Landed 18:03
+18:05	UA2288	
+Raleigh-Durham (RDU)
+United Airlines	B739 (N69885)	
+Landed 17:51
+18:05	UA4642	
+Bismarck (BIS)
+United Express	CRJ2 (N912EV)	
+Landed 17:25
+18:05	UA4690	
+Birmingham (BHM)
+United Express	E75L (N85376)	
+Landed 17:29
+18:05	UA5589	
+Lubbock (LBB)
+United Express	CRJ2 (N925EV)	
+Landed 18:23
+18:05	UA5679	
+Tulsa (TUL)
+United Express	E75L (N103SY)	
+Landed 17:40
+18:06	AA4076	
+Phoenix (PHX)
+American Eagle	E75L (N299JJ)	
+Landed 18:13
+18:06	UA5382	
+Jackson (JAC)
+United Express	E75L (N85369)	
+Landed 17:20
+18:07	UA720	
+San Francisco (SFO)
+United Airlines	B39M (N77571)	
+Landed 17:38
+18:07	UA1816	
+Omaha (OMA)
+United Airlines	A320 (N427UA)	
+Landed 17:55
+18:08	UA2338	
+Houston (IAH)
+United Airlines	B39M (N77585)	
+Landed 17:45
+18:08	UA5431	
+Lincoln (LNK)
+United Express	CRJ2 (N955SW)	
+Landed 17:42
+18:09	F92342	
+Los Angeles (LAX)
+Frontier (Pike the Otter Livery)	A320 (N235FR)	
+Landed 17:36
+18:09	UA2028	
+Pittsburgh (PIT)
+United Airlines	A320 (N486UA)	
+Landed 17:52
+18:10	UA2852	
+New York (EWR)
+United Airlines	B739 (N37420)	
+Landed 18:01
+18:10	WN2170	
+Palm Springs (PSP)
+Southwest Airlines	B737 (N259WN)	
+Landed 18:21
+18:10	WN3256	
+St. Louis (STL)
+Southwest Airlines	B38M (N8902Q)	
+Landed 18:16
+18:10	UA5456	
+Williston (XWA)
+United Express	CRJ2 (N487CA)	
+Landed 17:41
+18:10	UA5892	
+Greenville-Spartanburg (GSP)
+United Express	E75L (N612UX)	
+Landed 17:49
+18:10	WN2755	
+Colorado Springs (COS)
+Southwest Airlines	B38M (N8718Q)	
+Scheduled
+18:11	UA1368	
+San Juan (SJU)
+United Airlines	B38M (N37308)	
+Landed 18:11
+18:11	UA5417	
+Aspen (ASE)
+United Express	E75L (N108SY)	
+Delayed 18:47
+18:11	UA5597	
+Wichita (ICT)
+United Express	E75L (N624UX)	
+Landed 17:43
+18:12	F971	
+Cancun (CUN)
+Frontier (Forest the Northern Spotted Owl Livery)	A20N (N386FR)	
+Landed 18:16
+18:12	UA568	
+Toronto (YYZ)
+United Airlines	A319 (N855UA)	
+Landed 17:46
+18:12	UA1377	
+Charlotte (CLT)
+United Airlines	B738 (N14235)	
+Landed 18:18
+18:13	UA2644	
+Miami (MIA)
+United Airlines	B38M (N17320)	
+Landed 17:53
+18:13	UA4768	
+Oklahoma City (OKC)
+United Express	CRJ7 (N796SK)	
+Landed 18:19
+18:13	UA2012	
+Baltimore (BWI)
+United Airlines	B738 (N37253)	
+Landed 18:15
+18:13	UA2272	
+Minneapolis (MSP)
+United Airlines	A320 (N494UA)	
+Landed 18:27
+18:13	UA5369	
+Little Rock (LIT)
+United Express	E75L (N154SY)	
+Landed 18:10
+18:14	UA1303	
+St. Louis (STL)
+United Airlines	A319 (N825UA)	
+Landed 18:07
+18:15	UA1127	
+San Antonio (SAT)
+United Airlines	B739 (N69826)	
+Landed 18:00
+18:15	WN3436	
+San Francisco (SFO)
+Southwest Airlines	B38M (N8795L)	
+Landed 18:22
+18:15	WN3594	
+Boise (BOI)
+Southwest Airlines	B737 (N942WN)	
+Landed 18:25
+18:16	UA778	
+Boston (BOS)
+United Airlines	B739 (N37468)	
+Landed 18:02
+18:16	UA1781	
+Des Moines (DSM)
+United Airlines	A320 (N498UA)	
+Landed 18:22
+18:16	UA696	
+Edmonton (YEG)
+United Airlines	B738 (N37290)	
+Landed 17:35
+18:17	CM476	
+Panama City (PTY)
+Copa Airlines	B738 (HP-1824CMP)	
+Landed 17:48
+18:17	UA5694	
+Bentonville (XNA)
+United Express	CRJ7 (N779SK)	
+Landed 18:24
+18:17	UA2104	
+Jacksonville (JAX)
+United Airlines	A320 (N473UA)	
+Landed 17:55
+18:20	UA498	
+Tampa (TPA)
+United Airlines	B39M (N17550)	
+Landed 18:08
+18:20	UA1884	
+Fort Myers (RSW)
+United Airlines	B739 (N68821)	
+Landed 18:06
+18:20	UA2131	
+Phoenix (PHX)
+United Airlines	B738 (N33266)	
+Landed 18:28
+18:20	UA2447	
+Austin (AUS)
+United Airlines	B39M (N37545)	
+Landed 17:58
+18:20	UA4719	
+Colorado Springs (COS)
+United Express	E75L (N207SY)	
+Scheduled
+18:20	WN411	
+Tucson (TUS)
+Southwest Airlines	B38M (N8777Q)	
+Landed 17:57
+18:20	WN3371	
+Chicago (MDW)
+Southwest Airlines (Tennessee One Livery)	B738 (N8620H)	
+Landed 18:10
+18:20	WN3498	
+Nashville (BNA)
+Southwest Airlines	B738 (N8559Q)	
+Landed 18:12
+18:20	UA746	
+Washington (DCA)
+United Airlines	B753 (N78866)	
+Landed 18:27
+18:20	UA2123	
+Kansas City (MCI)
+United Airlines	B38M (N17262)	
+Delayed 19:25
+18:20	UA2655	
+Dallas (DFW)
+United Airlines	B738 (N78524)	
+Landed 18:14
+18:20	UA2732	
+Los Angeles (LAX)
+United Airlines	B739 (N66837)	
+Landed 18:10
+18:20	UA5404	
+Springfield (SGF)
+United Express	CRJ7 (N784SK)	
+Landed 18:20
+18:25	WN515	
+Puerto Vallarta (PVR)
+Southwest Airlines	B38M (N8914Q)	
+Landed 18:17
+18:25	WN1142	
+Portland (PDX)
+Southwest Airlines	B737 (N7720F)	
+Landed 18:21
+18:25	WN1779	
+Los Angeles (LAX)
+Southwest Airlines	B737 (N936WN)	
+Delayed 18:51
+18:25	WN2080	
+Dallas (DAL)
+Southwest Airlines	B738 (N8659D)	
+Landed 17:56
+18:25	WN2161	
+Kansas City (MCI)
+Southwest Airlines	B38M (N8923Q)	
+Estimated 18:32
+18:25	WN2888	
+Ontario (ONT)
+Southwest Airlines	B38M (N8823Q)	
+Estimated 18:39
+18:30	WN533	
+Oakland (OAK)
+Southwest Airlines	B38M (N8920Q)	
+Landed 18:27
+18:30	WN552	
+Austin (AUS)
+Southwest Airlines	B38M (N8753Q)	
+Landed 18:04
+18:30	WN977	
+San Jose (SJC)
+Southwest Airlines	B737 (N437WN)	
+Estimated 18:33
+18:30	WN1859	
+Salt Lake City (SLC)
+Southwest Airlines	B738 (N8651A)	
+Estimated 18:32
+18:30	WN2290	
+Burbank (BUR)
+Southwest Airlines	B737 (N248WN)	
+Landed 18:30
+18:30	WN2551	
+Long Beach (LGB)
+Southwest Airlines	B737 (N416WN)	
+Estimated 18:35
+18:30	WN2699	
+Sacramento (SMF)
+Southwest Airlines	B38M (N8899H)	
+Delayed 18:46
+18:30	WN3093	
+Santa Ana (SNA)
+Southwest Airlines	B737 (N274WN)	
+Scheduled
+18:30	WN3176	
+San Diego (SAN)
+Southwest Airlines	B737 (N7831B)	
+Estimated 18:37
+18:30	WN3873	
+Seattle (SEA)
+Southwest Airlines	B738 (N8614M)	
+Landed 18:29
+18:40	WN1028	
+Cancun (CUN)
+Southwest Airlines	B737 (N7723E)	
+Estimated 18:32
+18:40	WN4346	
+Omaha (OMA)
+Southwest Airlines	B737 (N7860A)	
+Estimated 18:33
+18:40	UA761	
+Munich (MUC)
+United Airlines	B789 (N17963)	
+Landed 18:05
+18:41	F91262	
+Ontario (ONT)
+Frontier (Monty the Margay Cat Livery)	A20N (N381FR)	
+Diverted to COS
+18:45	F94793	
+Fargo (FAR)
+Frontier (Sage the Pygmy Rabbit Livery)	A20N (N395FR)	
+Landed 18:30
+18:47	F93844	
+Las Vegas (LAS)
+Frontier (North the Harp Seal Livery)	A20N (N338FR)	
+Estimated 18:52
+18:55	FI671	
+Reykjavik (KEF)
+Icelandair	B752 (TF-ISR)	
+Landed 18:25
+18:55	UA624	
+Santa Ana (SNA)
+United Airlines	A320 (N442UA)	
+Estimated 18:55
+18:55	UA2419	
+Sacramento (SMF)
+United Airlines	B738 (N36207)	
+Estimated 18:35
+18:55	UA338	
+San Jose del Cabo (SJD)
+United Airlines	B738 (N17245)	
+Estimated 18:56
+19:01	AS602	
+Seattle (SEA)
+Alaska Airlines	B739 (N303AS)	
+Estimated 18:59
+19:05	UA1593	
+San Jose (SJC)
+United Airlines	B738 (N33284)	
+Estimated 18:56
+19:06	DL3681	
+Seattle (SEA)
+Delta Connection	E75L (N296SY)	
+Estimated 18:37
+19:07	UA1197	
+New York (EWR)
+United Airlines	B739 (N69806)	
+Delayed 21:33
+19:09	UA1136	
+Cancun (CUN)
+United Airlines	B739 (N38479)	
+Estimated 18:46
+19:10	WN232	
+Orlando (MCO)
+Southwest Airlines	B38M (N8809L)	
+Estimated 18:56
+19:10	WN1450	
+Phoenix (PHX)
+Southwest Airlines	B738 (N8321D)	
+Estimated 18:59
+19:14	8C3347	
+Seattle (SEA)
+Amazon Air	B763 (N571AZ)	
+Delayed 19:50
+19:15	WN3049	
+Reno (RNO)
+Southwest Airlines	B737 (N907WN)	
+Estimated 18:46
+19:17	AA1636	
+Charlotte (CLT)
+American Airlines	A321 (N573UW)	
+Delayed 19:33
+19:19	DL1586	
+Salt Lake City (SLC)
+Delta Air Lines	BCS3 (N320DU)	
+Estimated 18:55
+19:20	WN2457	
+St. Louis (STL)
+Southwest Airlines	B737 (N950WN)	
+Estimated 19:06
+19:20	UA1153	
+Reno (RNO)
+United Airlines	A319 (N815UA)	
+Estimated 18:49
+19:21	UA757	
+Seattle (SEA)
+United Airlines	B738 (N78506)	
+Estimated 18:39
+19:23	UA5067	
+St. George (SGU)
+United Express	CRJ2 (N221PS)	
+Estimated 19:04
+19:24	UA395	
+Boise (BOI)
+United Airlines	A319 (N874UA)	
+Estimated 18:51
+19:25	UA5984	
+Salt Lake City (SLC)
+United Express	E75L (N87368)	
+Scheduled
+19:25	UA5095	
+Dickinson (DIK)
+United Express	CRJ2 (N207PS)	
+Estimated 18:50
+19:25	UA5778	
+Aspen (ASE)
+United Express	E75L (N626SY)	
+Scheduled
+19:25	CH1805	
+Trinidad (TAD)
+Bemidji Aviation	BE65	
+Scheduled
+19:27	UA5941	
+Missoula (MSO)
+United Express	E75L (N86372)	
+Estimated 18:48
+19:27	OO5940	
+Ontario (ONT)
+SkyWest Airlines	CRJ7	
+Scheduled
+19:28	UA2085	
+Vancouver (YVR)
+United Airlines	A319 (N843UA)	
+Estimated 18:33
+19:30	UA1104	
+New York (LGA)
+United Airlines	B38M (N17328)	
+Estimated 18:59
+19:31	UA682	
+San Diego (SAN)
+United Airlines	B739 (N67812)	
+Scheduled
+19:31	UA1226	
+Phoenix (PHX)
+United Airlines	B738 (N14228)	
+Estimated 19:10
+19:31	UA5611	
+Rapid City (RAP)
+United Express	CRJ2 (N971SW)	
+Estimated 19:23
+19:32	KG1430	
+Laramie (LAR)
+Key Lime Air	SW4	
+Scheduled
+19:33	UA1728	
+Washington (IAD)
+United Airlines	B772 (N771UA)	
+Delayed 20:08
+19:33	UA5462	
+Tucson (TUS)
+United Express	E75L (N167SY)	
+Estimated 19:12
+19:34	UA800	
+Boston (BOS)
+United Airlines	B739 (N36447)	
+Estimated 19:16
+19:34	UA5755	
+Grand Junction (GJT)
+United Express	CRJ2 (N906EV)	
+Scheduled
+19:35	F92225	
+Raleigh-Durham (RDU)
+Frontier (Ichabod the Whooping Crane Livery)	A20N (N358FR)	
+Estimated 19:06
+19:35	UA1839	
+Nashville (BNA)
+United Airlines	A319 (N847UA)	
+Estimated 19:21
+19:35	UA5259	
+Spokane (GEG)
+United Express	E75L (N131SY)	
+Estimated 19:08
+19:35	UA5783	
+Palm Springs (PSP)
+United Express	E75L (N625UX)	
+Estimated 19:25
+19:35	WN136	
+Philadelphia (PHL)
+Southwest Airlines	B38M (N1804U)	
+Estimated 19:21
+19:35	WN3919	
+New York (LGA)
+Southwest Airlines	B738 (N8605E)	
+Estimated 19:12
+19:35	UA472	
+Burbank (BUR)
+United Airlines	A319 (N880UA)	
+Estimated 19:04
+19:35	UA1476	
+Austin (AUS)
+United Airlines	A320 (N454UA)	
+Estimated 19:12
+19:35	UA4774	
+Colorado Springs (COS)
+United Express	CRJ2 (N915EV)	
+Scheduled
+19:35	UA5070	
+Joplin (JLN)
+SkyWest Airlines	CRJ2 (N449SW)	
+Estimated 19:04
+19:35	UA5620	
+Santa Fe (SAF)
+United Express	E75L (N628SY)	
+Scheduled
+19:37	UA567	
+Ontario (ONT)
+United Airlines	A319 (N803UA)	
+Estimated 19:27
+19:37	F91262	
+Colorado Springs (COS)
+Frontier (Monty the Margay Cat Livery)	A20N (N381FR)	
+Scheduled
+19:38	F92705	
+Baltimore (BWI)
+Frontier (Rocket the Hammerhead Shark Livery)	A20N (N388FR)	
+Estimated 19:23
+19:38	UA2108	
+Las Vegas (LAS)
+United Airlines	B39M (N37577)	
+Estimated 19:16
+19:39	UA1602	
+Orlando (MCO)
+United Airlines	A21N (N14531)	
+Estimated 19:06
+19:39	UA5101	
+Liberal (LBL)
+United Express	CRJ2 (N937EV)	
+Estimated 19:08
+19:39	UA5475	
+Albuquerque (ABQ)
+United Express	CRJ7 (N787SK)	
+Scheduled
+19:39	F94918	
+San Jose (SJC)
+Frontier (Hamber the California Condor Livery)	A21N (N609FR)	
+Estimated 19:12
+19:39	KG1180	
+Grand Junction (GJT)
+Key Lime Air	E120	
+Scheduled
+19:40	UA5814	
+Santa Barbara (SBA)
+United Express	E75L (N82366)	
+Estimated 19:12
+19:40	WN1953	
+Sacramento (SMF)
+Southwest Airlines	B737 (N426WN)	
+Estimated 19:35
+19:40	UA2146	
+Los Angeles (LAX)
+United Airlines	B739 (N62892)	
+Estimated 19:16
+19:40	UA4731	
+Casper (CPR)
+SkyWest Charter	CRJ2 (N909EV)	
+Scheduled
+19:40	UA4758	
+Billings (BIL)
+SkyWest Airlines	CRJ2 (N905EV)	
+Estimated 19:08
+19:40	UA5032	
+Hays (HYS)
+SkyWest Airlines	CRJ2 (N916SW)	
+Estimated 19:12
+19:40	UA5053	
+Devils Lake (DVL)
+United Express	CRJ2 (N967SW)	
+Estimated 19:12
+19:40	UA5048	
+Laramie (LAR)
+United Express	CRJ2 (N979SW)	
+Scheduled
+19:40	UA5086	
+Dodge City (DDC)
+United Express	CRJ2 (N976SW)	
+Estimated 19:04
+19:40	UA5129	
+Scottsbluff (BFF)
+SkyWest Airlines	CRJ2 (N917SW)	
+Scheduled
+19:40	UA5400	
+Durango (DRO)
+United Express	CRJ2 (N965SW)	
+Estimated 19:16
+19:49	AA6219	
+Los Angeles (LAX)
+American Eagle	E75L (N507SY)	
+Estimated 19:31
+19:50	AA2235	
+Dallas (DFW)
+American Airlines	A321 (N130AN)	
+Scheduled
+19:50	UA284	
+Chicago (ORD)
+United Airlines	A21N (N14507)	
+Estimated 19:46
+19:50	UA1654	
+Houston (IAH)
+United Airlines	B739 (N69804)	
+Estimated 19:23
+19:50	KG646	
+Lamar (LAA)
+Key Lime Air	SW4	
+Scheduled
+19:55	UA2190	
+Portland (PDX)
+United Airlines	B738 (N36280)	
+Estimated 19:21
+19:55	WN771	
+Pittsburgh (PIT)
+Southwest Airlines	B737 (N232WN)	
+Estimated 19:49
+19:55	WN1447	
+Detroit (DTW)
+Southwest Airlines	B737 (N457WN)	
+Estimated 19:39
+19:55	5A1841	
+Alamosa (ALS)
+Alpine Air Express	BE99	
+Scheduled
+19:55	KG414	
+Sidney (SNY)
+Key Lime Air	SW4	
+Scheduled
+19:56	DL746	
+Atlanta (ATL)
+Delta Air Lines	A321 (N105DX)	
+Estimated 19:46
+19:57	5A1827	
+Cheyenne (CYS)
+Alpine Air Express	B190	
+Scheduled
+19:58	KG515	
+Lamar (LAA)
+Key Lime Air	SW4	
+Scheduled
+20:00	DL457	
+New York (JFK)
+Delta Air Lines	A21N (N522DA)	
+Estimated 19:23
+20:00	WN3601	
+Nashville (BNA)
+Southwest Airlines	B38M (N8832H)	
+Estimated 19:40
+20:01	KG1502	
+Scottsbluff (BFF)
+Key Lime Air	SW4	
+Scheduled
+20:02	DL2931	
+Minneapolis (MSP)
+Delta Air Lines	B739 (N906DN)	
+Estimated 19:46
+20:03	CH1693	
+Goodland (GLD)
+Bemidji Aviation	BE99	
+Scheduled
+20:05	F94766	
+Phoenix (PHX)
+Frontier (Parish&Daisy the Burrowing Owls Livery)	A20N (N371FR)	
+Estimated 19:33
+20:05	UA566	
+San Francisco (SFO)
+United Airlines	B739 (N57439)	
+Estimated 19:46
+20:07	F91401	
+Nashville (BNA)
+Frontier (Buttercup the Utah Prairie Dog Livery)	A21N (N622FR)	
+Estimated 19:36
+20:09	F9689	
+Washington (DCA)
+Frontier (Wylie the Coati Livery)	A20N (N361FR)	
+Estimated 19:59
+20:11	5A1855	
+Hayden (HDN)
+Alpine Air Express	B190	
+Scheduled
+20:13	UA1325	
+New Orleans (MSY)
+United Airlines	B38M (N17285)	
+Estimated 19:55
+20:14	5A1813	
+Gunnison (GUC)
+Alpine Air Express	B190	
+Scheduled
+20:18	KG3418	
+Rifle (RIL)
+Key Lime Air	SW4	
+Scheduled
+20:22	F94567	
+St. Louis (STL)
+Frontier (Cubby the Bear Livery)	A321 (N714FR)	
+Estimated 20:03
+20:22	KG3219	
+Pueblo (PUB)
+Key Lime Air	SW4	
+Scheduled
+20:23	KG1725	
+Riverton (RIW)
+Key Lime Air	SW4	
+Scheduled
+20:25	KG837	
+Riverton (RIW)
+Key Lime Air	SW4	
+Scheduled
+20:30	WN481	
+Tulsa (TUL)
+Southwest Airlines	B737 (N7820L)	
+Estimated 19:59
+20:30	WN887	
+Oklahoma City (OKC)
+Southwest Airlines	B738 (N8527Q)	
+Scheduled
+20:30	WN4098	
+Chicago (MDW)
+Southwest Airlines	B38M (N8839Q)	
+Estimated 20:20
+20:33	2I194	
+Salt Lake City (SLC)
+21 Air	B762	
+Scheduled
+20:35	WN1321	
+Dallas (DAL)
+Southwest Airlines	B38M (N8900L)	
+Estimated 20:13
+20:35	WN1557	
+Phoenix (PHX)
+Southwest Airlines	B737 (N954WN)	
+Scheduled
+20:35	WN1702	
+Baltimore (BWI)
+Southwest Airlines	B737 (N287WN)	
+Estimated 20:19
+20:36	DL710	
+New York (LGA)
+Delta Air Lines	BCS3 (N305DU)	
+Scheduled
+20:40	WN259	
+El Paso (ELP)
+Southwest Airlines	B738 (N8554X)	
+Scheduled
+20:40	WN1284	
+Indianapolis (IND)
+Southwest Airlines	B38M (N8702L)	
+Estimated 20:12
+20:40	WN1894	
+Kansas City (MCI)
+Southwest Airlines	B38M (N8929S)	
+Scheduled
+20:40	WN2553	
+Houston (HOU)
+Southwest Airlines	B38M (N8940Q)	
+Estimated 20:07
+20:40	WN2961	
+New Orleans (MSY)
+Southwest Airlines	B38M (N8873S)	
+Estimated 20:15
+20:40	WN4279	
+Minneapolis (MSP)
+Southwest Airlines	B38M (N8943Q)	
+Scheduled
+20:41	UA2330	
+Dallas (DFW)
+United Airlines	A319 (N842UA)	
+Estimated 20:14
+20:45	WN543	
+Atlanta (ATL)
+Southwest Airlines	B38M (N8897K)	
+Estimated 20:15
+20:45	WN696	
+Milwaukee (MKE)
+Southwest Airlines	B738 (N8698B)	
+Estimated 20:38
+20:45	WN1408	
+Albuquerque (ABQ)
+Southwest Airlines	B737 (N424WN)	
+Scheduled
+20:45	WN1697	
+Raleigh-Durham (RDU)
+Southwest Airlines	B738 (N8641B)	
+Estimated 20:24
+20:45	WN2293	
+Columbus (CMH)
+Southwest Airlines	B737 (N7733B)	
+Estimated 20:33
+20:45	WN2370	
+San Antonio (SAT)
+Southwest Airlines	B737 (N7877H)	
+Estimated 20:13
+20:45	WN2848	
+Tampa (TPA)
+Southwest Airlines	B738 (N8536Z)	
+Estimated 20:24
+20:45	WN3409	
+Omaha (OMA)
+Southwest Airlines	B738 (N8525S)	
+Scheduled
+20:45	WN4082	
+Washington (IAD)
+Southwest Airlines	B737 (N297WN)	
+Estimated 20:26
+20:45	WN4211	
+Austin (AUS)
+Southwest Airlines	B38M (N8826Q)	
+Estimated 20:14
+20:55	WN3514	
+Chicago (ORD)
+Southwest Airlines	B737 (N929WN)	
+Estimated 20:44
+21:06	F94252	
+Salt Lake City (SLC)
+Frontier (Miracle the Seagull Livery)	A20N (N350FR)	
+Scheduled
+21:07	UA442	
+New York (LGA)
+United Airlines	B38M (N17361)	
+Estimated 20:33
+21:16	AA1529	
+Charlotte (CLT)
+American Airlines	A321 (N124AA)	
+Scheduled
+21:21	F91863	
+Oklahoma City (OKC)
+Frontier (Percy the Florida Panther Livery)	A20N (N385FR)	
+Scheduled
+21:25	WN1683	
+Salt Lake City (SLC)
+Southwest Airlines	B737 (N7827A)	
+Scheduled
+21:30	WN591	
+Las Vegas (LAS)
+Southwest Airlines	B737 (N414WN)	
+Scheduled
+21:34	UA297	
+San Francisco (SFO)
+United Airlines	B738 (N24211)	
+Scheduled
+21:39	B6393	
+Boston (BOS)
+JetBlue	BCS3 (N3157J)	
+Estimated 21:07
+21:40	WN3306	
+Phoenix (PHX)
+Southwest Airlines	B737 (N924WN)	
+Scheduled
+21:40	AC8714	
+Vancouver (YVR)
+Air Canada Express	CRJ9 (C-GJFZ)	
+Scheduled
+21:41	UA1637	
+Phoenix (PHX)
+United Airlines	B738 (N12221)	
+Scheduled
+21:45	UA767	
+Chicago (ORD)
+United Airlines	A21N (N44522)	
+Scheduled
+21:48	AA1638	
+Phoenix (PHX)
+American Airlines	A320 (N663AW)	
+Scheduled
+21:50	WN1525	
+Santa Ana (SNA)
+Southwest Airlines	B737 (N254WN)	
+Scheduled
+21:50	UA1924	
+San Diego (SAN)
+United Airlines	B738 (N77530)	
+Scheduled
+21:51	F92453	
+Pensacola (PNS)
+Frontier (Captain the Puffin Livery)	A20N (N322FR)	
+Scheduled
+21:54	UA1291	
+Las Vegas (LAS)
+United Airlines	B738 (N27239)	
+Scheduled
+21:55	WN2194	
+Dallas (DAL)
+Southwest Airlines	B738 (N8322X)	
+Scheduled
+21:55	UA454	
+Washington (IAD)
+United Airlines	B739 (N78448)	
+Estimated 21:33
+21:58	AA577	
+Dallas (DFW)
+American Airlines	A321 (N154AA)	
+Scheduled
+21:58	UA1841	
+Sacramento (SMF)
+United Airlines	A320 (N1902U)	
+Scheduled
+21:59	UA2334	
+Portland (PDX)
+United Airlines	A320 (N426UA)	
+Scheduled
+22:00	UA562	
+San Jose (SJC)
+United Airlines	A320 (N4901U)	
+Scheduled
+22:06	AA3158	
+Philadelphia (PHL)
+American Airlines	B738 (N846NN)	
+Estimated 21:48
+22:07	F92142	
+Phoenix (PHX)
+Frontier (Fran the Sea Lion Livery)	A20N (N341FR)	
+Scheduled
+22:12	UA2215	
+Houston (IAH)
+United Airlines	A21N (N14533)	
+Scheduled
+22:13	F94612	
+Las Vegas (LAS)
+Frontier (Kit the Kermode Bear Livery)	A20N (N366FR)	
+Scheduled
+22:13	UA2729	
+Los Angeles (LAX)
+United Airlines	B739 (N68834)	
+Scheduled
+22:20	WN2365	
+San Jose (SJC)
+Southwest Airlines	B38M (N8938Q)	
+Scheduled
+22:25	WN675	
+Chicago (MDW)
+Southwest Airlines	B738 (N8309C)	
+Scheduled
+22:27	DL1667	
+Salt Lake City (SLC)
+Delta Air Lines	A319 (N322NB)	
+Scheduled
+22:30	WN202	
+Phoenix (PHX)
+Southwest Airlines	B737 (N932WN)	
+Scheduled
+22:33	UA1792	
+New York (EWR)
+United Airlines	B739 (N67846)	
+Estimated 22:24
+22:35	WN1951	
+Los Angeles (LAX)
+Southwest Airlines	B738 (N8553W)	
+Scheduled
+22:35	WN2399	
+Oakland (OAK)
+Southwest Airlines	B38M (N8741L)	
+Scheduled
+22:39	AA1387	
+Chicago (ORD)
+American Airlines	B738 (N968NN)	
+Scheduled
+22:44	UA776	
+San Francisco (SFO)
+United Airlines	B739 (N67827)	
+Scheduled
+22:45	WN2414	
+Portland (PDX)
+Southwest Airlines	B738 (N8663A)	
+Scheduled
+22:45	WN2547	
+Las Vegas (LAS)
+Southwest Airlines	B737 (N273WN)	
+Scheduled
+22:51	AA1639	
+Miami (MIA)
+American Airlines	A321 (N991AU)	
+Scheduled
+22:53		
+Cleveland (BKL)
+Omni Air Transport	LJ40 (N340SR)	
+Scheduled
+22:58	B697	
+New York (JFK)
+JetBlue	BCS3 (N3229J)	
+Estimated 22:22
+22:59	AA3156	
+Charlotte (CLT)
+American Airlines	A321 (N151UW)	
+Scheduled
+22:59	F91449	
+Atlanta (ATL)
+Frontier (Weston the Woodpecker Livery)	A20N (N309FR)	
+Scheduled
+22:59	UA2656	
+Santa Ana (SNA)
+United Airlines	A320 (N466UA)	
+Scheduled
+23:00	WN1264	
+San Diego (SAN)
+Southwest Airlines	B38M (N8801Q)	
+Scheduled
+23:00	WN2180	
+Sacramento (SMF)
+Southwest Airlines	B737 (N7855A)	
+Scheduled
+23:00	UA1218	
+Seattle (SEA)
+United Airlines	A320 (N476UA)	
+Scheduled
+23:02	DL1064	
+Minneapolis (MSP)
+Delta Air Lines	B739 (N885DN)	
+Scheduled
+23:05	WN297	
+Nashville (BNA)
+Southwest Airlines	B737 (N415WN)	
+Scheduled
+23:05	WN1667	
+Baltimore (BWI)
+Southwest Airlines	B737 (N7825A)	
+Scheduled
+23:08	DL956	
+Atlanta (ATL)
+Delta Air Lines	A321 (N374DX)	
+Scheduled
+23:10	UA490	
+Chicago (ORD)
+United Airlines	B739 (N37466)	
+Scheduled
+23:14	F93311	
+Orlando (MCO)
+Frontier (Lone Star the Longhorn Steer Livery)	A20N (N347FR)	
+Scheduled
+23:18	UA1915	
+Los Angeles (LAX)
+United Airlines	B753 (N57868)	
+Scheduled
+23:18	DL1049	
+Los Angeles (LAX)
+Delta Air Lines	A319 (N302NB)	
+Scheduled
+23:30	WN2931	
+Houston (HOU)
+Southwest Airlines	B737 (N480WN)	
+Scheduled
+23:31	F94463	
+Dallas (DFW)
+Frontier (Cody & Dakota the Coyotes Livery)	A321 (N721FR)	
+Scheduled
+23:35	WN2642	
+Las Vegas (LAS)
+Southwest Airlines	B737 (N7876A)	
+Scheduled
+23:40	DL2851	
+Seattle (SEA)
+Delta Air Lines	BCS3 (N326DU)	
+Scheduled
+23:44	UA1338	
+Houston (IAH)
+United Airlines	B739 (N62889)	
+Scheduled
+23:45	WN686	
+Orlando (MCO)
+Southwest Airlines	B737 (N205WN)	
+Scheduled
+23:53	AA662	
+Dallas (DFW)
+American Airlines	A321 (N158AN)	
+Scheduled
+23:56	F94855	
+Houston (IAH)
+Frontier (Sunny the Collared Lizard Livery)	A20N (N310FR)	
+Scheduled
+23:58	AS642	
+Seattle (SEA)
+Alaska Airlines	B39M (N971AK)	
+Scheduled
+23:58	UA2630	
+Boston (BOS)
+United Airlines	B39M (N37553)	
+Scheduled
