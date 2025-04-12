@@ -1,0 +1,452 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Mono:wght@300;400;500&family=Questrial&display=swap');
+
+:root {
+    --color-red: #EB3F56;
+    --color-red-light: #F56A71;
+    --color-red-dark: #CC0621;
+    --color-orange: #FF9757;
+    --color-orange-light: #FFB384;
+    --color-orange-dark: #D2611C;
+    --color-yellow: #FFD357;
+    --color-yellow-light: #FFE292;
+    --color-yellow-dark: #D09D0D;
+    --color-yellowgreen: #A8F809;
+    --color-yellowgreen-light: #CEFC73;
+    --color-yellowgreen-dark: #79AD10;
+    --color-green: #45F936;
+    --color-green-light: #83FC79;
+    --color-green-dark: #16A20A;
+    --color-mint: #18FA94;
+    --color-mint-light: #7FFFC5;
+    --color-mint-dark: #11AC66;
+    --color-teal: #20FED5;
+    --color-teal-light: #8FFAE6;
+    --color-teal-dark: #0DA98D;
+    --color-skyblue: #34AEFF;
+    --color-skyblue-light: #93D1FA;
+    --color-skyblue-dark: #186EA8;
+    --color-blue: #4262EE;
+    --color-blue-light: #9AACFA;
+    --color-blue-dark: #0D28A0;
+    --color-purple: #8A1EF0;
+    --color-purple-light: #C995F8;
+    --color-purple-dark: #6314AD;
+    --color-pink: #EA2FF0;
+    --color-pink-light: #F385F7;
+    --color-pink-dark: #A617AB;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Questrial', sans-serif;
+    transition: 0.3s ease;
+    outline: none;
+    scroll-behavior: smooth;
+    scrollbar-width: none;
+}
+
+body {
+    height: 100vh;
+    background: black;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+section.main {
+    width: 80%;
+    height: 100%;
+    background: rgba(255, 255, 255, 0.075);
+    border-radius: 20px;
+    padding: 15px;
+
+    div.search-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        padding: 5px;
+        width: 100%;
+        margin-bottom: 10px;
+
+        div.search {
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            justify-content: center;
+            gap: 15px;
+            background: #2b2b2b;
+            border-radius: 10px;
+            padding: 10px 15px;
+            font-size: 20px;
+            width: 100%;
+            position: relative;
+            height: 50px;
+
+            &::after {
+                content: '';
+                position: absolute;
+                top: -3px;  /* Adjust to align within the div */
+                left: -3px; /* Adjust to align within the div */
+                width: calc(100% + 6px);  /* Expand to cover padding */
+                height: calc(100% + 6px); /* Expand to cover padding */
+                border-radius: 12px;
+                pointer-events: none;
+                z-index: -1;
+                background: #2b2b2b;
+            }
+
+            i {
+                color: rgba(255, 255, 255, 0.7);
+            }
+
+            input {
+                padding: 10px;
+                font-size: 20px;
+                width: 100%;
+                height: 100%;
+                background: none;
+                border: none;
+                outline: none;
+                color: white;
+                font-size: 20px;
+
+                &::placeholder {
+                    user-select: none;
+                    color: rgba(255, 255, 255, 0.5);
+                    font-size: 20px;
+                }
+            }
+        }
+    }
+
+    div.list {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: flex-start;
+        gap: 10px;
+        padding: 5px;
+        width: 100%;
+        overflow-y: auto;
+        height: calc(100vh - 40px - 30px - 60px - 5px);
+    }
+
+    div.flight {
+        display: flex;
+        flex-direction: row;
+        width: 100%;
+        align-items: center;
+        justify-content: space-between;
+        gap: 15px;
+        padding: 10px 15px;
+        background: #2b2b2b;
+        border-radius: 10px;
+        margin-bottom: 10px;
+        height: 70px;
+        min-height: 70px;
+        position: relative;
+
+        * {
+            text-wrap: nowrap;
+        }
+
+        &::after {
+            content: '';
+            position: absolute;
+            top: -3px;  /* Adjust to align within the div */
+            left: -3px; /* Adjust to align within the div */
+            width: calc(100% + 6px);  /* Expand to cover padding */
+            height: calc(100% + 6px); /* Expand to cover padding */
+            border-radius: 12px;
+            pointer-events: none;
+            z-index: -1;
+            background: #2b2b2b;
+        }
+    
+        &:has(.ultra-legendary) {
+            &::after {
+                background: linear-gradient(to right, #dd9c22, #c7405d);
+            }
+        }
+
+        &:has(.legendary) {
+            &::after {
+                background: linear-gradient(to right, #dd3e22, #c740c7);
+            }
+        }
+
+        &:has(.exotic) {
+            &::after {
+                background: linear-gradient(to right, #9922dd, #1a638d);
+            }
+        }
+
+        &:has(.epic) {
+            &::after {
+                background: linear-gradient(to right, #74ad19, #358d1a);
+                background: linear-gradient(to right, #0a8031, #1a8d8d);
+            }
+        }
+
+        &:has(.rare) {
+            &::after {
+                background: linear-gradient(to right, #74ad19, #358d1a);
+            }
+        }
+
+        &:has(.error) {
+            background: var(--color-red-dark);
+            &::after {
+                background: var(--color-red-light);
+            }
+        }
+
+        div.info {
+            display: flex;
+            flex-direction: column;
+            width: 100%;
+            align-items: flex-start;
+            justify-content: center;
+            gap: 0px;
+
+            div.row {
+                display: flex;
+                flex-direction: row;
+                gap: 20px;
+                width: 100%;
+                align-items: center;
+                justify-content: flex-start;
+
+                div.time-container {
+                    display: flex;
+                    align-items: center;
+                    
+                    p.time {
+                        color: white;
+                        font-size: 25px;
+                        font-family: 'DM Mono', monospace;
+                    }
+                }
+        
+                div.flight-number-container {
+                    display: flex;
+                    align-items: center;
+                    
+                    p.flight-number {
+                        color: rgba(255, 255, 255, 0.8);
+                        font-size: 23px;
+                        font-family: 'DM Mono', monospace;
+                    }
+                }
+        
+                div.aircraft-type-container {
+                    display: flex;
+                    align-items: center;
+                    
+                    p.aircraft-type {
+                        color: rgba(255, 255, 255, 0.7);
+                        font-size: 23px;
+                        font-family: 'DM Mono', monospace;
+        
+                        span.registration {
+                            color: rgba(255, 255, 255, 0.5);
+                            font-family: 'DM Mono', monospace;
+                        }
+                    }
+                }
+        
+                div.incoming-airport-container {
+                    display: flex;
+                    align-items: center;
+                    
+                    p.incoming-airport {
+                        color: rgba(255, 255, 255, 0.7);
+                        font-size: 23px;
+                        font-family: 'DM Mono', monospace;
+                    }
+                }
+            }
+
+            div.livery {
+                display: flex;
+                flex-direction: column;
+                align-items: flex-start;
+                justify-content: center;
+                width: 100%;
+
+                p {
+                    color: rgba(255, 255, 255, 0.6);
+                    font-size: 20px;
+                }
+            }
+        }
+
+        div.priority-container {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+
+            p.priority {
+                text-wrap: nowrap;
+                padding: 5px 10px;
+                border-radius: 20px;
+                line-height: 1;
+                color: white;
+                font-size: 18px;
+                user-select: none;
+                cursor: default;
+
+                &.ultra-legendary {
+                    background: linear-gradient(to right, #dd9c22, #c7405d);
+                }
+
+                &.legendary {
+                    background: linear-gradient(to right, #dd3e22, #c740c7);
+                }
+
+                &.exotic {
+                    background: linear-gradient(to right, #9922dd, #1a638d);
+                }
+
+                &.epic {
+                    background: linear-gradient(to right, #0a8031, #1a8d8d);
+                }
+
+                &.rare {
+                    background: linear-gradient(to right, #0a8031, #1a8d8d);
+                    background: linear-gradient(to right, #74ad19, #358d1a);
+                }
+            }
+        }
+    }
+}
+
+nav {
+    width: 20%;
+    height: 100%;
+    background: red;
+    background: rgba(255, 255, 255, 0.075);
+    border-radius: 20px;
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 10px;
+
+    button {
+        height: 50px;
+        padding: 10px;
+        border-radius: 10px;
+        background: rgba(255, 255, 255, 0.075);
+        border: none;
+        cursor: pointer;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        color: white;
+        font-size: 20px;
+        width: 100%;
+        gap: 10px;
+        user-select: none;
+
+        &:hover {
+            background: #2b2b2b;
+        }
+    }
+}
+
+div.overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    background: rgba(0, 0, 0, 0.5);
+    height: 100vh;
+    width: 100vw;
+    display: none;
+    align-items: center;
+    justify-content: center;
+
+    div.popup {
+        padding: 20px;
+        display: none;
+        border-radius: 20px;
+        box-shadow: 0px 0px 20px black;
+        background: black;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap: 10px;
+
+        textarea {
+            height: 60vh;
+            width: 50vw;
+            background: #2b2b2b;
+            padding: 15px;
+            border-radius: 15px;
+            outline: none;
+            border: 2px solid rgba(255, 255, 255, 0.5);
+            color: white;
+            font-family: 'DM Mono', monospace;
+            resize: none;
+            font-size: 16px;
+        }
+
+        div.buttons {
+            display: flex;
+            flex-direction: row;
+            gap: 10px;
+            align-items: center;
+            justify-content: center;
+            width: 100%;
+
+            button.cancel {
+                height: 50px;
+                width: 50px;
+                background: var(--color-red);
+                border-radius: 15px;
+                border: none;
+                cursor: pointer;
+                display: flex;
+                flex-direction: row;
+                align-items: center;
+                justify-content: center;
+                color: white;
+                font-size: 20px;
+                gap: 10px;
+    
+                &:hover {
+                    filter: brightness(0.9);
+                }
+            }
+
+            button.save {
+                height: 50px;
+                width: 100%;
+                background: var(--color-skyblue-dark);
+                border-radius: 15px;
+                border: none;
+                cursor: pointer;
+                display: flex;
+                flex-direction: row;
+                align-items: center;
+                justify-content: center;
+                color: white;
+                font-size: 20px;
+                gap: 10px;
+    
+                &:hover {
+                    filter: brightness(0.9);
+                }
+            }
+        }
+    }
+}
