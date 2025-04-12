@@ -186,7 +186,7 @@ function determinePriority(flight) {
     "29000": "ultraLegendary",
   }
   
-  const typeWhitelist = ["B738", "B737", "A320", "A20N", "B38M", "B39M", "A21N", "E75L", "CRJ2", "CRJ7", "B739", "A319", "SW4", "PC12", "E135", "A321", "E145", "BCS3", "LJ40", "CRJ9", "B190", "BE99", "GLF4", "BCS1", "LJ45", "J328", "SF50", "E120", "BE65" ];
+  const typeWhitelist = ["B738", "B737", "A320", "A20N", "B38M", "B39M", "A21N", "E75L", "CRJ2", "CRJ7", "B739", "A319", "SW4", "PC12", "E135", "A321", "E145", "BCS3", "LJ40", "CRJ9", "B190", "BE99", "GLF4", "BCS1", "LJ45", "J328", "SF50", "E120", "BE65", "E45X", "C560", "C68A", "CL60", "E55P", ];
 
   const airlineWhitelist = [
     "Southwest Airlines",
@@ -227,6 +227,10 @@ function determinePriority(flight) {
     "Contour Aviation",
     "British Airways",
     "Aer Lingus",
+    "Allegiant Air",
+    "Sun Country Airlines",
+    "Silverhawk Aviation",
+    "NetJets",
   ]
 
   if (typeWhitelist.includes(flight.aircraftType)) {
@@ -247,6 +251,7 @@ function determinePriority(flight) {
       "B789": 2,
       "B78X": 3,
       "A332": 3,
+      "MD11": 4,
     }
 
     if (typeList.hasOwnProperty(flight.aircraftType)) {
@@ -264,7 +269,17 @@ function determinePriority(flight) {
     const airlineList = {
       "Southwest Airlines (Triple Crown Livery)": 2,
       "Southwest Airlines (Freedom One Livery)": 4,
-      "Southwest Airlines (Tennessee One Livery)": 4,
+      "Southwest Airlines (Tennessee One Livery)": 3,
+      "Southwest Airlines (Arizona One Livery)": 3,
+      "Southwest Airlines (Missouri One Livery)": 3,
+      "United Airlines (Retro Livery)": 2,
+      "Southwest Airlines (Florida One Livery)": 3,
+      "Southwest Airlines (California One Livery)": 3,
+      "Air Canada (Vince Carter Livery)": 3,
+      "United Airlines (Sustainable Aviation Fuel Livery)": 2,
+      "Delta Air Lines (100 Years Livery)": 4,
+      "United Airlines (Star Alliance Livery)": 3,
+
     }
 
     if (airlineList.hasOwnProperty(flight.airline)) {
