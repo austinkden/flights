@@ -99,10 +99,17 @@ section.main {
                 pointer-events: none;
                 z-index: -1;
                 background: #2b2b2b;
+                transition: background 0.3s ease;
             }
 
             i {
                 color: rgba(255, 255, 255, 0.7);
+            }
+
+            &:has(input:focus) {
+                &::after {
+                    background: rgba(255, 255, 255, 0.7);
+                }
             }
 
             input {
