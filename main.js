@@ -169,6 +169,10 @@ function workData() {
       `
 
       listEl.append(flightDiv);
+
+      if (flt.flightNumber == "F99534") {
+        console.log(flt);
+      }
     });
 
     flights = [];
@@ -189,7 +193,7 @@ function workData() {
       "29000": "ultraLegendary",
     }
     
-    const typeWhitelist = ["B738", "B737", "A320", "A20N", "B38M", "B39M", "A21N", "E75L", "CRJ2", "CRJ7", "B739", "A319", "SW4", "PC12", "E135", "A321", "E145", "BCS3", "LJ40", "CRJ9", "B190", "BE99", "GLF4", "BCS1", "LJ45", "J328", "SF50", "E120", "BE65", "E45X", "C560", "C68A", "CL60", "E55P", "BE40", "SWM", "ER4", "FRJ", "E170", "PL2"];
+    const typeWhitelist = ["B738", "B737", "A320", "A20N", "B38M", "B39M", "A21N", "E75L", "CRJ2", "CRJ7", "B739", "A319", "SW4", "PC12", "E135", "A321", "E145", "BCS3", "LJ40", "CRJ9", "B190", "BE99", "GLF4", "BCS1", "LJ45", "J328", "SF50", "E120", "BE65", "E45X", "C560", "C68A", "CL60", "E55P", "BE40", "SWM", "ER4", "FRJ", "E170", "PL2", "CL30", "BE"];
 
     const airlineWhitelist = [
       "Southwest Airlines",
@@ -200,6 +204,7 @@ function workData() {
       "FedEx",
       "United Express",
       "SkyWest Airlines",
+      "Air France",
       "Delta Connection",
       "American Airlines",
       "DHL",
@@ -228,6 +233,7 @@ function workData() {
       "Air Canada Jetz",
       "Lufthansa",
       "Contour Aviation",
+      "United Express (SkyWest Livery)",
       "British Airways",
       "Aer Lingus",
       "Allegiant Air",
@@ -280,6 +286,7 @@ function workData() {
         "Southwest Airlines (Freedom One Livery)": 4,
         "Southwest Airlines (Tennessee One Livery)": 3,
         "Southwest Airlines (Arizona One Livery)": 3,
+        "Southwest Airlines (Maryland One Livery)": 3,
         "Southwest Airlines (Nevada One Livery)": 3,
         "Southwest Airlines (Missouri One Livery)": 3,
         "United Airlines (Retro Livery)": 2,
@@ -287,11 +294,15 @@ function workData() {
         "Southwest Airlines (Florida One Livery)": 3,
         "Southwest Airlines (California One Livery)": 3,
         "Air Canada (Vince Carter Livery)": 3,
+        "American Airlines (Retro Livery)": 4,
         "United Airlines (Sustainable Aviation Fuel Livery)": 2,
         "Delta Air Lines (100 Years Livery)": 4,
         "United Airlines (Star Alliance Livery)": 3,
         "Southwest Airlines (Canyon Blue Retro Livery)": 2,
+        "Southwest Airlines (Desert Gold Retro Livery)": 3,
         "Aeroméxico (Kukulcán Livery)": 4,
+        "American Airlines (US Airways Retro Livery)": 2,
+        "American Airlines (Flagship Valor Livery)": 2,
       }
 
       if (airlineList.hasOwnProperty(flight.airline)) {
