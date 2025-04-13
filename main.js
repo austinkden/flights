@@ -74,18 +74,22 @@ function workData() {
 
     function handleSearch() {
       const searchInput = document.querySelector(".search input");
-      searchInput.addEventListener("input", () => {
-        const query = searchInput.value.toLowerCase();
-        const allFlights = document.querySelectorAll(".flight");
-    
-        allFlights.forEach(flight => {
-          const text = flight.innerText.toLowerCase();
-          if (text.includes(query)) {
-            flight.style.display = "flex";
-          } else {
-            flight.style.display = "none";
-          }
-        });
+      searchInput.addEventListener("keydown", (ev) => {
+        if (ev.key == "Enter") {
+          const query = searchInput.value.toLowerCase();
+          const allFlights = document.querySelectorAll(".flight");
+      
+          allFlights.forEach(flight => {
+            const text = flight.innerText.toLowerCase();
+            if (text.includes(query)) {
+              flight.style.display = "flex";
+            } else {
+              flight.style.display = "none";
+            }
+          });
+        } else if (ev.key == "Escape") {
+          searchInput.blur();
+        }
       });
     }
 
