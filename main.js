@@ -264,6 +264,7 @@ function workData() {
         "B789": 2,
         "B78X": 3,
         "A332": 3,
+        "A333": 3,
         "MD11": 4,
         "M11": 4,
       }
@@ -291,6 +292,7 @@ function workData() {
         "Southwest Airlines (Missouri One Livery)": 3,
         "United Airlines (Retro Livery)": 2,
         "Southwest Airlines (Lone Star One Livery)": 3,
+        "United Airlines (Together Sticker)": 2,
         "Southwest Airlines (Florida One Livery)": 3,
         "Southwest Airlines (California One Livery)": 3,
         "Air Canada (Vince Carter Livery)": 3,
