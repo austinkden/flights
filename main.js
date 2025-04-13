@@ -302,6 +302,10 @@ function workData() {
     } else {
       if ((flight.airline).startsWith("Frontier")) {
         inList[2] = 1;
+
+        if (flight.airline == "Frontier Airlines	-") {
+          console.log(inList);
+        }
       }
 
       const airlineList = {
