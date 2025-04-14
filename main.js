@@ -220,7 +220,9 @@ function workData() {
       "29000": "ultraLegendary",
     }
     
-    const typeWhitelist = ["B738", "B737", "A320", "A20N", "B38M", "B39M", "A21N", "E75L", "CRJ2", "CRJ7", "B739", "A319", "SW4", "PC12", "E135", "A321", "E145", "BCS3", "LJ40", "CRJ9", "B190", "BE99", "GLF4", "BCS1", "LJ45", "J328", "SF50", "E120", "BE65", "E45X", "C560", "C68A", "CL60", "E55P", "BE40", "SWM", "ER4", "FRJ", "E170", "PL2", "CL30", "BE20"];
+    const typeWhitelist = ["B738", "B737", "A320", "A20N", "B38M", "B39M", "A21N", "E75L", "CRJ2", "CRJ7", "B739", "A319", "SW4", "PC12", "E135", "A321", "E145", "BCS3", "LJ40", "CRJ9", "B190", "BE99", "GLF4", "BCS1", "LJ45", "J328", "SF50", "E120", "BE65", "E45X", "C560", "C68A", "CL60", "E55P", "BE40", "SWM", "ER4", "FRJ", "E170", "PL2", "CL30", "BE20",
+      "E545", "LJ35", "CL35", 
+    ];
 
     const airlineWhitelist = [
       "Southwest Airlines",
@@ -228,6 +230,7 @@ function workData() {
       "United Airlines",
       "Air Transport International",
       "UPS",
+      "Suburban Air Freight",
       "FedEx",
       "United Express",
       "SkyWest Airlines",
@@ -336,6 +339,7 @@ function workData() {
         "Aeroméxico (Kukulcán Livery)": 4,
         "American Airlines (US Airways Retro Livery)": 2,
         "American Airlines (Flagship Valor Livery)": 2,
+        "Icelandair (Aurora Borealis Livery)": 4,
       }
 
       if (airlineList.hasOwnProperty(flight.airline)) {
