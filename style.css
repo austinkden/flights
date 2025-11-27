@@ -174,9 +174,10 @@ section.main {
             pointer-events: none;
             z-index: -1;
             background: #2b2b2b;
+            overflow-x: auto !important;
         }
     
-        &:has(.ultra-legendary) {
+        &:has(.ultra) {
             &::after {
                 background: linear-gradient(to right, #dd9c22, #c7405d);
             }
@@ -196,7 +197,6 @@ section.main {
 
         &:has(.epic) {
             &::after {
-                background: linear-gradient(to right, #74ad19, #358d1a);
                 background: linear-gradient(to right, #0a8031, #1a8d8d);
             }
         }
@@ -209,8 +209,13 @@ section.main {
 
         &:has(.error) {
             background: var(--color-red-dark);
+
             &::after {
                 background: var(--color-red-light);
+            }
+
+            div.info div.row::after {
+                background: linear-gradient(to right, transparent, var(--color-red-dark));
             }
         }
 
@@ -229,6 +234,21 @@ section.main {
                 width: 100%;
                 align-items: center;
                 justify-content: flex-start;
+                white-space: nowrap;
+                overflow: hidden;
+                text-overflow: ellipsis;
+                width: calc(100% - 210px);
+                position: relative;
+
+                &::after {
+                    content: '';
+                    position: absolute;
+                    top: 0;
+                    right: 0;
+                    height: 100%;
+                    width: 30px;
+                    background: linear-gradient(to right, transparent, #2b2b2b);
+                }
 
                 div.time-container {
                     display: flex;
@@ -276,6 +296,7 @@ section.main {
                         color: rgba(255, 255, 255, 0.7);
                         font-size: 23px;
                         font-family: 'DM Mono', monospace;
+
                     }
                 }
             }
@@ -296,6 +317,7 @@ section.main {
 
         div.priority-container {
             display: flex;
+            flex-direction: row;
             align-items: center;
             justify-content: center;
 
@@ -309,7 +331,7 @@ section.main {
                 user-select: none;
                 cursor: default;
 
-                &.ultra-legendary {
+                &.ultra {
                     background: linear-gradient(to right, #dd9c22, #c7405d);
                 }
 
@@ -326,7 +348,6 @@ section.main {
                 }
 
                 &.rare {
-                    background: linear-gradient(to right, #0a8031, #1a8d8d);
                     background: linear-gradient(to right, #74ad19, #358d1a);
                 }
             }
@@ -346,6 +367,7 @@ nav {
     align-items: center;
     justify-content: flex-start;
     gap: 10px;
+    min-width: 170px;
 
     button {
         height: 50px;
@@ -380,14 +402,120 @@ div.overlay {
     display: none;
     align-items: center;
     justify-content: center;
+    display: none; /* temp */
 
     div.popup {
+        overflow: hidden;
+        max-width: 99vw;
+        max-height: 99vh;
+    }
+
+    div.popup.stats {
+        padding: 20px;
+        display: none; /* temp */
+        border-radius: 20px;
+        box-shadow: 0px 0px 20px black;
+        background: black;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: center;
+        gap: 5px;
+
+        p {
+            display: flex;
+            flex-direction: row;
+            gap: 10px;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-size: 20px;
+
+            span.title {
+                font-weight: bold;
+            }
+
+            span.count {
+                color: white;
+                font-family: 'DM Mono', monospace;
+            }
+
+            span.percentage {
+                color: rgba(255, 255, 255, 0.7);
+                font-family: 'DM Mono', monospace;
+            }
+        }
+
+        p.total, p.errors {
+            margin-bottom: 10px;
+        }
+
+        p.errors span.title {
+            color: var(--color-red);
+        }
+
+        p.ultra span.title {
+            background: linear-gradient(to right, #dd9c22, #c7405d);
+            -webkit-background-clip: text;
+            background-clip: text;
+            color: transparent;
+        }
+
+        p.legendary span.title {
+            background: linear-gradient(to right, #dd3e22, #c740c7);
+            -webkit-background-clip: text;
+            background-clip: text;
+            color: transparent;
+        }
+
+        p.exotic span.title {
+            background: linear-gradient(to right, #9922dd, #1a638d);
+            -webkit-background-clip: text;
+            background-clip: text;
+            color: transparent;
+        }
+
+        p.epic span.title {
+            background: linear-gradient(to right, #0a8031, #1a8d8d);
+            -webkit-background-clip: text;
+            background-clip: text;
+            color: transparent;
+        }
+
+        p.rare span.title {
+            background: linear-gradient(to right, #74ad19, #358d1a);
+            -webkit-background-clip: text;
+            background-clip: text;
+            color: transparent;
+        }
+
+        button.close {
+            height: 50px;
+            width: 100%;
+            background: var(--color-skyblue-dark);
+            border-radius: 15px;
+            border: none;
+            cursor: pointer;
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-size: 20px;
+            margin-top: 10px;
+            gap: 10px;
+
+            &:hover {
+                filter: brightness(0.9);
+            }
+        }
+    }
+
+    div.popup.paste {
         padding: 20px;
         display: none;
         border-radius: 20px;
         box-shadow: 0px 0px 20px black;
         background: black;
-        display: flex;
         flex-direction: column;
         align-items: center;
         justify-content: center;

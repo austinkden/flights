@@ -1,6 +1,6 @@
 let settings = [
   {
-    highlightUltraLegendary: true,
+    highlightUltra: true,
     highlightLegendary: true,
     highlightExotic: true,
     highlightEpic: false,
@@ -8,19 +8,84 @@ let settings = [
   }
 ]
 
-function workData() {
+document.addEventListener("keydown", (ev) => {
+  if (ev.key == "k" && ev.ctrlKey) {
+    ev.preventDefault();
+    document.querySelector("div.search input").focus();
+  }
+});
 
+
+document.addEventListener("keypress", (ev) => {
+  if (ev.key == "=") {
+    let now = new Date();
+
+    const tryFindTime = () => {
+      let hour = String(now.getHours()).padStart(2, "0");
+      let min = String(now.getMinutes()).padStart(2, "0");
+      let timeText = `${hour}:${min}`;
+
+      console.log("trying:", timeText);
+
+      let timeEl = [...document.querySelectorAll("p.time")].find(el => el.textContent.trim() === timeText);
+
+      if (timeEl) {
+        timeEl.closest(".flight").scrollIntoView({ behavior: "smooth", block: "center" });
+        console.log("found!", timeEl);
+      } else {
+        now.setMinutes(now.getMinutes() + 1); // add 1 minute
+        setTimeout(tryFindTime, 100); // wait 100ms and try again
+      }
+    };
+
+    tryFindTime();
+  }
+});
+
+
+
+
+function workData() {
   let flights = [];
-  let totals = [0, 0, 0, 0, 0, 0, 0]
-  // errors, ALL RARITIES IN ORDER FROM ULTRA LEGENDARY TO RARE, total
+  let lclFlightsSaved = localStorage.getItem("flightsSaved");
+  let dateSaved = new Date(parseInt(lclFlightsSaved));
+  let today = new Date();
+
+  let totals = {
+    total: 0,
+    errors: 0,
+    ultra: 0,
+    legendary: 0,
+    exotic: 0,
+    epic: 0,
+    rare: 0,
+  }
+
+  if (lclFlightsSaved && dateSaved.toDateString() === today.toDateString()) {
+    let lclFlights = localStorage.getItem("flights");
+    if (lclFlights) {
+      flights = JSON.parse(lclFlights);
+      displayOutput();
+    } else {
+      flights = [];
+    }
+  }
+  // errors, ALL RARITIES IN ORDER FROM ULTRA TO RARE, total
 
   function handles() {
     let textarea = document.querySelector("div.popup.paste textarea");
-    let cancelButton = document.querySelector("div.popup.paste button.cancel");
-    let saveButton = document.querySelector("div.popup.paste button.save");
-    let pasteButton = document.querySelector("nav button.paste");
     let overlayEl = document.querySelector("div.overlay");
+
+    let pasteCancelButton = document.querySelector("div.popup.paste button.cancel");
+    let pasteSaveButton = document.querySelector("div.popup.paste button.save");
+    let pasteButton = document.querySelector("nav button.paste");
     let popupPasteEl = document.querySelector("div.popup.paste");
+
+    let filtersButton = document.querySelector("nav button.filters");
+    let popupFiltersEl = document.querySelector("div.popup.filters");
+
+    let statsButton = document.querySelector("nav button.stats");
+    let popupStatsEl = document.querySelector("div.popup.stats");
 
     pasteButton.addEventListener("click", () => {
       overlayEl.style.display = "flex";
@@ -28,23 +93,29 @@ function workData() {
       handleInput();
     })
 
+    statsButton.addEventListener("click", () => {
+      overlayEl.style.display = "flex";
+      popupStatsEl.style.display = "flex";
+      handleStats();
+    })
+
     function handleInput() {
       textarea.focus();
 
-      cancelButton.addEventListener("click", () => {
+      pasteCancelButton.addEventListener("click", () => {
         overlayEl.style.display = "none";
         popupPasteEl.style.display = "none";
       })
 
-      cancelButton.addEventListener("contextmenu", () => {
+      pasteCancelButton.addEventListener("contextmenu", () => {
         event.preventDefault();
         overlayEl.style.display = "none";
         popupPasteEl.style.display = "none";
         textarea.value = "";
       })
 
-      saveButton.addEventListener("click", () => {
-        handleSaveButton();
+      pasteSaveButton.addEventListener("click", () => {
+        handlepasteSaveButton();
       })
 
       textarea.addEventListener("keydown", (ev) => {
@@ -57,11 +128,11 @@ function workData() {
       textarea.addEventListener("keydown", (ev) => {
         if (ev.key === "Enter") {
           ev.preventDefault();
-          handleSaveButton();
+          handlepasteSaveButton();
         }
       })
 
-      function handleSaveButton() {
+      function handlepasteSaveButton() {
         if (textarea.value == "" || textarea.value == null) {
           textarea.focus();
         } else {
@@ -93,7 +164,6 @@ function workData() {
       });
     }
 
-    // handleData() {}
     function handleData() {
       let input = textarea.value;
       textarea.value = "";
@@ -139,7 +209,6 @@ function workData() {
           aircraftType = "Unknown";
         }
 
-    
         flights.push({
           time,
           flightNumber,
@@ -156,7 +225,6 @@ function workData() {
     }
 
     handleSearch();
-
   }
 
   function displayOutput() {
@@ -167,8 +235,17 @@ function workData() {
       let flightDiv = document.createElement("div");
       flightDiv.classList.add("flight");
       let flightPriority = determinePriority(flt);
+      totals["total"]++;
+      if (flightPriority == "error") {
+        totals["errors"]++;
+      } else if (!flightPriority == "") {
+        totals[flightPriority]++;
+      }
 
       let flightPriorityCaps = flightPriority.toUpperCase();
+      if (flightPriority == "ultra") {
+        flightPriorityCaps = "ULTRA-LEGENDARY";
+      }
 
       flightDiv.innerHTML = `
         <div class="info">
@@ -196,13 +273,52 @@ function workData() {
       `
 
       listEl.append(flightDiv);
-
-      if (flt.flightNumber == "F99534") {
-        console.log(flt);
-      }
     });
 
+    localStorage.setItem("flights", JSON.stringify(flights));
+    localStorage.setItem("flightsSaved", Date.now());
     flights = [];
+    handleStats();
+  }
+
+  function handleStats() {
+    let statsCloseButton = document.querySelector("div.popup.stats button.close");
+    let statsErrorsCount = document.querySelector("div.popup.stats p.errors span.count");
+    let statsTotalCount = document.querySelector("div.popup.stats p.total span.count");
+    let statsUltraCount = document.querySelector("div.popup.stats p.ultra span.count");
+    let statsLegendaryCount = document.querySelector("div.popup.stats p.legendary span.count");
+    let statsExoticCount = document.querySelector("div.popup.stats p.exotic span.count");
+    let statsEpicCount = document.querySelector("div.popup.stats p.epic span.count");
+    let statsRareCount = document.querySelector("div.popup.stats p.rare span.count");
+
+    statsErrorsCount.innerText = totals["errors"];
+    statsTotalCount.innerText = totals["total"];
+    statsUltraCount.innerText = totals["ultra"];
+    statsLegendaryCount.innerText = totals["legendary"];
+    statsExoticCount.innerText = totals["exotic"];
+    statsEpicCount.innerText = totals["epic"];
+    statsRareCount.innerText = totals["rare"];
+
+    let statsErrorsPercentage = document.querySelector("div.popup.stats p.errors span.percentage");
+    let statsUltraPercentage = document.querySelector("div.popup.stats p.ultra span.percentage");
+    let statsLegendaryPercentage = document.querySelector("div.popup.stats p.legendary span.percentage");
+    let statsExoticPercentage = document.querySelector("div.popup.stats p.exotic span.percentage");
+    let statsEpicPercentage = document.querySelector("div.popup.stats p.epic span.percentage");
+    let statsRarePercentage = document.querySelector("div.popup.stats p.rare span.percentage");
+  
+    statsErrorsPercentage.innerText = "(" + (totals["errors"] / totals["total"] * 100).toFixed(2) + "%)";
+    statsUltraPercentage.innerText = "(" + (totals["ultra"] / totals["total"] * 100).toFixed(2) + "%)";
+    statsLegendaryPercentage.innerText = "(" + (totals["legendary"] / totals["total"] * 100).toFixed(2) + "%)";
+    statsExoticPercentage.innerText = "(" + (totals["exotic"] / totals["total"] * 100).toFixed(2) + "%)";
+    statsEpicPercentage.innerText = "(" + (totals["epic"] / totals["total"] * 100).toFixed(2) + "%)";
+    statsRarePercentage.innerText = "(" + (totals["rare"] / totals["total"] * 100).toFixed(2) + "%)";
+    
+    statsCloseButton.addEventListener("click", () => {
+      let overlayEl = document.querySelector("div.overlay");
+      let popupStatsEl = document.querySelector("div.popup.stats");
+      overlayEl.style.display = "none";
+      popupStatsEl.style.display = "none";
+    })
   }
 
   function determinePriority(flight) {
@@ -216,16 +332,16 @@ function workData() {
     // 2rare: 777, 787, 767
 
     const registrations = {
-      "28000": "ultraLegendary",
-      "29000": "ultraLegendary",
+      "28000": "ultra",
+      "29000": "ultra",
     }
     
     const typeWhitelist = ["B738", "B737", "A320", "A20N", "B38M", "B39M", "A21N", "E75L", "CRJ2", "CRJ7", "B739", "A319", "SW4", "PC12", "E135", "A321", "E145", "BCS3", "LJ40", "CRJ9", "B190", "BE99", "GLF4", "BCS1", "LJ45", "J328", "SF50", "E120", "BE65", "E45X", "C560", "C68A", "CL60", "E55P", "BE40", "SWM", "ER4", "FRJ", "E170", "PL2", "CL30", "BE20",
-      "E545", "LJ35", "CL35", 
+      "E545", "LJ35", "CL35", "CR2", "7M9", "75V", "763", "73W", "E75S", "Unknown",
     ];
 
     const airlineWhitelist = [
-      "Southwest Airlines",
+      // "Southwest Airlines",
       "Southern Airways Express",
       "United Airlines",
       "Air Transport International",
@@ -234,7 +350,10 @@ function workData() {
       "FedEx",
       "United Express",
       "SkyWest Airlines",
+      "Edelweiss Air",
       "Air France",
+      "PlaneSense",
+      "WestJet",
       "Delta Connection",
       "American Airlines",
       "DHL",
@@ -250,6 +369,7 @@ function workData() {
       "Delta Air Lines",
       "Alaska Airlines",
       "JetBlue",
+      "Aeroméxico",
       "Omni Air Transport",
       "Air Canada Express",
       "21 Air",
@@ -273,6 +393,8 @@ function workData() {
       "Cayman Airways",
       "Viva",
       "Turkish Airlines",
+      "Delta Connection",
+      "Alaska SkyWest",
       "Unknown",
     ]
 
@@ -287,10 +409,11 @@ function workData() {
         "A346": 4,
         "B752": 2,
         "B753": 2,
-        "B763": 2,
+        "B763": 3,
         "A306": 2,
         "B772": 2,
-        "B762": 2,
+        "B762": 3,
+        "B764": 3,
         "B789": 2,
         "B78X": 3,
         "A332": 3,
@@ -304,15 +427,17 @@ function workData() {
       }
     }
 
+    console.log(flight.airline);
+    if (flight.airline.includes("	-")) {
+      console.info("TRUE");
+      flight.airline = flight.airline.replace("	-", "");
+    }
+
     if (airlineWhitelist.includes(flight.airline)) {
       inList[2] = 1;
     } else {
       if ((flight.airline).startsWith("Frontier")) {
         inList[2] = 1;
-
-        if (flight.airline == "Frontier Airlines	-") {
-          console.log(inList);
-        }
       }
 
       const airlineList = {
@@ -340,20 +465,26 @@ function workData() {
         "American Airlines (US Airways Retro Livery)": 2,
         "American Airlines (Flagship Valor Livery)": 2,
         "Icelandair (Aurora Borealis Livery)": 4,
+        "National Airlines": 3,
+        "Southwest Airlines (Imua One Livery)": 4,
+        "JetBlue (JetBlue Vacations Livery)": 2,
+        "Alaska Airlines (Disneyland - Pixar Pier Livery)": 4,
+        "American Airlines (Stand up to Cancer Livery)": 2,
+        "Southwest Airlines (Louisiana One Livery)": 3,
+        "Copa Airlines (Star Alliance Livery)": 3,
       }
 
       if (airlineList.hasOwnProperty(flight.airline)) {
         inList[2] = airlineList[flight.airline];
       }
     }
-
     
     let maxRarity = Math.max(...inList);
 
     let toReturn;
 
     if (maxRarity == 6) {
-      toReturn = "ultraLegendary";
+      toReturn = "ultra";
     } else if (maxRarity == 5) {
       toReturn = "legendary";
     } else if (maxRarity == 4) {
