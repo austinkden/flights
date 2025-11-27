@@ -341,7 +341,7 @@ function workData() {
     ];
 
     const airlineWhitelist = [
-      // "Southwest Airlines",
+      "Southwest Airlines",
       "Southern Airways Express",
       "United Airlines",
       "Air Transport International",
