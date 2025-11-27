@@ -1,13 +1,16 @@
-
 ## Upcoming Features
 - Filter menu
-  - Only show a combination of any rarities (for example, only show utlra legendary and legendary flights)
-  - Only highlight a combination of any rarities (for example, only highlight utlra legendary and legendary flights)
+  - Only show a combination of any rarities (for example, only show utlra legendary and legendary flights, or only show epic and rare flights)
+  - Only highlight a combination of any rarities (for example, only highlight utlra legendary and legendary flights instead of highlighting all rarities)
 - Passenger tools
-  - Detect busiest times of day for in airport
+  - Use the capacity of the aircraft type to determine how many passengers can be on the aircraft
+  - Put the capacity in the airline text in brackets (for example, "Southwest Airlines [123]" or "Copa Airlines (Star Alliance Livery) [123]")
+  - Passengers menu will show the busiest hours for amount of passengers, and 90 minutes will be subtracted from the time of the flight for this calculation (assuming that's when people go through security)
 - Sort menu
-  - Sort by most rare (ultra legendary, legendary, exotic, epic, rare)
+  - Sort by rarity (ultra legendary, legendary, exotic, epic, rare)
   - Sort by time (default)
   - Sort by most passengers (after passenger tools is completed)
+  - Sort alphabetically by destination
+  - Sort alphabetically by airline
 - Spotting tools
-  - Detect best time to spot based on amount of total aircraft and amount of rare aircraft (customizable time length, from 10min to 4hr)
+  - Detect best time to plane-spot based on amount of total aircraft and amount of rare aircraft (customizable time length, from 10min to 4hr)
