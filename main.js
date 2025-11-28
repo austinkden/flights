@@ -1,12 +1,16 @@
-let settings = [
-  {
-    highlightUltra: true,
-    highlightLegendary: true,
-    highlightExotic: true,
-    highlightEpic: false,
-    highlightRare: false,
-  }
-]
+let settings = {
+  showUltra: true,
+  showLegendary: true,
+  showExotic: true,
+  showEpic: true,
+  showRare: true,
+  showAllOthers: true,
+  highlightUltra: true,
+  highlightLegendary: true,
+  highlightExotic: true,
+  highlightEpic: true,
+  highlightRare: true,
+}
 
 document.addEventListener("keydown", (ev) => {
   if (ev.key == "k" && ev.ctrlKey) {
@@ -99,6 +103,12 @@ function workData() {
       handleStats();
     })
 
+    filtersButton.addEventListener("click", () => {
+      overlayEl.style.display = "flex";
+      popupFiltersEl.style.display = "flex";
+      handleFilters();
+    })
+
     function handleInput() {
       textarea.focus();
 
@@ -149,7 +159,7 @@ function workData() {
         if (ev.key == "Enter") {
           const query = searchInput.value.toLowerCase();
           const allFlights = document.querySelectorAll(".flight");
-      
+
           allFlights.forEach(flight => {
             const text = flight.innerText.toLowerCase();
             if (text.includes(query)) {
@@ -167,30 +177,30 @@ function workData() {
     function handleData() {
       let input = textarea.value;
       textarea.value = "";
-    
+
       let lines = input.trim().split('\n');
       flights = [];
-    
+
       for (let i = 0; i < lines.length; i += 4) {
         let [time, flightNumber] = lines[i].trim().split(/\s+/);
-    
+
         const airportLine = lines[i + 1]?.trim() || "";
         const airportMatch = airportLine.match(/^(.+)\s+\((\w{3})\)$/);
         const airport = airportMatch ? airportMatch[1] : null;
         const airportCode = airportMatch ? airportMatch[2] : null;
-    
+
         const airlineLine = lines[i + 2]?.trim() || "";
         let airline = null;
         let aircraftType = null;
         let registration = null;
-    
+
         const aircraftMatch = airlineLine.match(/^(.*?)(?:\s+([A-Z0-9]+)(?:\s*\((.*?)\))?)?$/);
         if (aircraftMatch) {
           airline = aircraftMatch[1]?.trim() || null;
           aircraftType = aircraftMatch[2]?.trim() || null;
           registration = aircraftMatch[3]?.trim() || null;
         }
-    
+
         const status = lines[i + 3]?.trim() || "";
 
         if (registration == null) {
@@ -220,21 +230,67 @@ function workData() {
           status
         });
       }
-    
+
       displayOutput();
     }
 
     handleSearch();
+
+    function handleFilters() {
+      const closeButton = popupFiltersEl.querySelector("button.close");
+      const checkboxes = popupFiltersEl.querySelectorAll("input[type='checkbox']");
+
+      // Initialize checkboxes based on settings
+      checkboxes.forEach(box => {
+        if (settings.hasOwnProperty(box.name)) {
+          box.checked = settings[box.name];
+        }
+
+        box.addEventListener("change", () => {
+          settings[box.name] = box.checked;
+          displayOutput();
+        });
+      });
+
+      closeButton.addEventListener("click", () => {
+        overlayEl.style.display = "none";
+        popupFiltersEl.style.display = "none";
+      });
+    }
   }
 
   function displayOutput() {
     let listEl = document.querySelector("section.main div.list");
     listEl.innerHTML = "";
-    
+
+    totals = {
+      total: 0,
+      errors: 0,
+      ultra: 0,
+      legendary: 0,
+      exotic: 0,
+      epic: 0,
+      rare: 0,
+    }
+
     flights.forEach(flt => {
+      let flightPriority = determinePriority(flt);
+
+      // Filter logic
+      let shouldShow = false;
+      if (flightPriority === "ultra" && settings.showUltra) shouldShow = true;
+      else if (flightPriority === "legendary" && settings.showLegendary) shouldShow = true;
+      else if (flightPriority === "exotic" && settings.showExotic) shouldShow = true;
+      else if (flightPriority === "epic" && settings.showEpic) shouldShow = true;
+      else if (flightPriority === "rare" && settings.showRare) shouldShow = true;
+      else if (flightPriority === "" && settings.showAllOthers) shouldShow = true;
+      else if (flightPriority === "error") shouldShow = true; // Always show errors
+
+      if (!shouldShow) return;
+
       let flightDiv = document.createElement("div");
       flightDiv.classList.add("flight");
-      let flightPriority = determinePriority(flt);
+
       totals["total"]++;
       if (flightPriority == "error") {
         totals["errors"]++;
@@ -246,6 +302,15 @@ function workData() {
       if (flightPriority == "ultra") {
         flightPriorityCaps = "ULTRA-LEGENDARY";
       }
+
+      // Highlight logic
+      let highlightClass = flightPriority;
+      if (flightPriority === "ultra" && !settings.highlightUltra) highlightClass = "";
+      else if (flightPriority === "legendary" && !settings.highlightLegendary) highlightClass = "";
+      else if (flightPriority === "exotic" && !settings.highlightExotic) highlightClass = "";
+      else if (flightPriority === "epic" && !settings.highlightEpic) highlightClass = "";
+      else if (flightPriority === "rare" && !settings.highlightRare) highlightClass = "";
+
 
       flightDiv.innerHTML = `
         <div class="info">
@@ -268,7 +333,7 @@ function workData() {
           </div>
         </div>
         <div class="priority-container">
-          <p class="priority ${flightPriority}">${flightPriorityCaps}</p>
+          <p class="priority ${highlightClass}">${flightPriorityCaps}</p>
         </div>
       `
 
@@ -277,7 +342,6 @@ function workData() {
 
     localStorage.setItem("flights", JSON.stringify(flights));
     localStorage.setItem("flightsSaved", Date.now());
-    flights = [];
     handleStats();
   }
 
@@ -305,14 +369,23 @@ function workData() {
     let statsExoticPercentage = document.querySelector("div.popup.stats p.exotic span.percentage");
     let statsEpicPercentage = document.querySelector("div.popup.stats p.epic span.percentage");
     let statsRarePercentage = document.querySelector("div.popup.stats p.rare span.percentage");
-  
-    statsErrorsPercentage.innerText = "(" + (totals["errors"] / totals["total"] * 100).toFixed(2) + "%)";
-    statsUltraPercentage.innerText = "(" + (totals["ultra"] / totals["total"] * 100).toFixed(2) + "%)";
-    statsLegendaryPercentage.innerText = "(" + (totals["legendary"] / totals["total"] * 100).toFixed(2) + "%)";
-    statsExoticPercentage.innerText = "(" + (totals["exotic"] / totals["total"] * 100).toFixed(2) + "%)";
-    statsEpicPercentage.innerText = "(" + (totals["epic"] / totals["total"] * 100).toFixed(2) + "%)";
-    statsRarePercentage.innerText = "(" + (totals["rare"] / totals["total"] * 100).toFixed(2) + "%)";
-    
+
+    if (totals.total == 0) {
+      statsErrorsPercentage.innerText = "(0.00%)";
+      statsUltraPercentage.innerText = "(0.00%)";
+      statsLegendaryPercentage.innerText = "(0.00%)";
+      statsExoticPercentage.innerText = "(0.00%)";
+      statsEpicPercentage.innerText = "(0.00%)";
+      statsRarePercentage.innerText = "(0.00%)";
+    } else {
+      statsErrorsPercentage.innerText = "(" + (totals["errors"] / totals["total"] * 100).toFixed(2) + "%)";
+      statsUltraPercentage.innerText = "(" + (totals["ultra"] / totals["total"] * 100).toFixed(2) + "%)";
+      statsLegendaryPercentage.innerText = "(" + (totals["legendary"] / totals["total"] * 100).toFixed(2) + "%)";
+      statsExoticPercentage.innerText = "(" + (totals["exotic"] / totals["total"] * 100).toFixed(2) + "%)";
+      statsEpicPercentage.innerText = "(" + (totals["epic"] / totals["total"] * 100).toFixed(2) + "%)";
+      statsRarePercentage.innerText = "(" + (totals["rare"] / totals["total"] * 100).toFixed(2) + "%)";
+    }
+
     statsCloseButton.addEventListener("click", () => {
       let overlayEl = document.querySelector("div.overlay");
       let popupStatsEl = document.querySelector("div.popup.stats");
@@ -335,7 +408,7 @@ function workData() {
       "28000": "ultra",
       "29000": "ultra",
     }
-    
+
     const typeWhitelist = ["B738", "B737", "A320", "A20N", "B38M", "B39M", "A21N", "E75L", "CRJ2", "CRJ7", "B739", "A319", "SW4", "PC12", "E135", "A321", "E145", "BCS3", "LJ40", "CRJ9", "B190", "BE99", "GLF4", "BCS1", "LJ45", "J328", "SF50", "E120", "BE65", "E45X", "C560", "C68A", "CL60", "E55P", "BE40", "SWM", "ER4", "FRJ", "E170", "PL2", "CL30", "BE20",
       "E545", "LJ35", "CL35", "CR2", "7M9", "75V", "763", "73W", "E75S", "Unknown",
     ];
@@ -478,7 +551,7 @@ function workData() {
         inList[2] = airlineList[flight.airline];
       }
     }
-    
+
     let maxRarity = Math.max(...inList);
 
     let toReturn;
@@ -504,7 +577,7 @@ function workData() {
       console.warn(flight.time, flight.flightNumber, inList);
     }
 
-    return(toReturn);
+    return (toReturn);
   }
 
   handles();
