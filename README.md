@@ -1,5 +1,5 @@
 ## Upcoming Features
-- Filter menu (completed, will be implemented shortly)
+- Filter menu (completed, will be implemented at some point)
   - Only show a combination of any rarities (for example, only show utlra legendary and legendary flights, or only show epic and rare flights)
   - Only highlight a combination of any rarities (for example, only highlight utlra legendary and legendary flights instead of highlighting all rarities)
 - Passenger tools
